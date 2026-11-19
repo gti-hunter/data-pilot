@@ -1,0 +1,1501 @@
+id_pedido,data,cliente,cidade,categoria,quantidade,preco_unitario,status
+PED-10000,2026-05-21,Cliente_63,São Paulo,Ferramentas,1,266.59,concluído
+PED-10001,2026-10-07,Cliente_23,Curitiba,Ferramentas,2,112.59,concluído
+PED-10002,2026-01-16,Cliente_24,São Paulo,Vestuário,1,248.48,concluído
+PED-10003,2026-10-15,Cliente_51,São Paulo,Vestuário,1,110.9,concluído
+PED-10004,2026-04-23,Cliente_115,Campinas,Esportes,7,294.93,cancelado
+PED-10005,2026-03-23,Cliente_179,São Paulo,Esportes,1,248.03,concluído
+PED-10006,2026-03-21,Cliente_56,São Paulo,Ferramentas,5,186.37,concluído
+PED-10007,2026-02-22,Cliente_24,São Paulo,Vestuário,6,384.17,concluído
+PED-10008,2026-06-26,Cliente_155,São Paulo,Esportes,6,170.57,concluído
+PED-10009,2026-08-24,Cliente_138,Rio de Janeiro,Vestuário,1,127.87,concluído
+PED-10010,2026-02-10,Cliente_142,Campinas,Eletrônicos,2,1449.1,concluído
+PED-10011,2026-10-23,Cliente_50,Belo Horizonte,Ferramentas,6,138.48,concluído
+PED-10012,2026-04-27,Cliente_198,São Paulo,Eletrônicos,1,4463.77,pendente
+PED-10013,2026-04-30,Cliente_222,Porto Alegre,Eletrônicos,1,2304.82,concluído
+PED-10014,2026-08-21,Cliente_163,São Paulo,Esportes,5,67.37,concluído
+PED-10015,2026-07-09,Cliente_91,São Paulo,Ferramentas,3,338.62,concluído
+PED-10016,2026-02-06,Cliente_156,São Paulo,Eletrônicos,2,1889.44,concluído
+PED-10017,2026-03-25,Cliente_119,Belo Horizonte,Móveis,2,1696.95,concluído
+PED-10018,2026-06-16,Cliente_216,São Paulo,Esportes,4,170.4,concluído
+PED-10019,2026-04-28,Cliente_211,Campinas,Móveis,1,1990.29,concluído
+PED-10020,2026-07-25,Cliente_69,São Paulo,Esportes,6,41.88,concluído
+PED-10021,2026-04-19,Cliente_168,Campinas,Esportes,6,54.49,concluído
+PED-10022,2026-03-15,Cliente_68,São Paulo,Ferramentas,8,214.72,concluído
+PED-10023,2026-10-27,Cliente_110,Porto Alegre,Móveis,3,607.19,pendente
+PED-10024,2026-07-05,Cliente_57,Belo Horizonte,Ferramentas,7,362.19,concluído
+PED-10025,2026-09-18,Cliente_127,Porto Alegre,Eletrônicos,1,5986.09,concluído
+PED-10026,2026-02-26,Cliente_40,São Paulo,Eletrônicos,1,1272.73,concluído
+PED-10027,2026-11-02,Cliente_17,São Paulo,Vestuário,7,262.16,concluído
+PED-10028,2026-09-28,Cliente_65,Curitiba,Vestuário,8,172.36,concluído
+PED-10029,2026-02-28,Cliente_175,São Paulo,Móveis,1,2436.37,concluído
+PED-10030,2026-11-25,Cliente_88,Porto Alegre,Esportes,5,357.37,concluído
+PED-10031,2026-03-22,Cliente_117,São Paulo,Ferramentas,7,71.27,concluído
+PED-10032,2026-09-14,Cliente_196,Belo Horizonte,Vestuário,5,31.2,concluído
+PED-10033,2026-11-17,Cliente_77,São Paulo,Vestuário,2,96.1,concluído
+PED-10034,2026-03-20,Cliente_96,Rio de Janeiro,Vestuário,4,341.42,concluído
+PED-10035,2026-11-03,Cliente_83,São Paulo,Móveis,1,1977.52,concluído
+PED-10036,2026-07-05,Cliente_225,São Paulo,Eletrônicos,1,3340.75,concluído
+PED-10037,2026-05-03,Cliente_15,Rio de Janeiro,Ferramentas,5,394.57,concluído
+PED-10038,2026-02-13,Cliente_188,São Paulo,Vestuário,2,119.12,concluído
+PED-10039,2026-09-30,Cliente_197,Campinas,Vestuário,2,209.82,concluído
+PED-10040,2026-10-09,Cliente_43,Porto Alegre,Móveis,4,576.67,cancelado
+PED-10041,2026-04-19,Cliente_238,Belo Horizonte,Esportes,7,128.07,concluído
+PED-10042,2026-06-09,Cliente_103,São Paulo,Vestuário,4,229.54,concluído
+PED-10043,2026-08-13,Cliente_231,São Paulo,Eletrônicos,2,5974.78,concluído
+PED-10044,2026-05-07,Cliente_58,São Paulo,Eletrônicos,1,3491.39,concluído
+PED-10045,2026-10-29,Cliente_142,São Paulo,Ferramentas,1,53.69,concluído
+PED-10046,2026-01-04,Cliente_19,São Paulo,Vestuário,4,115.14,concluído
+PED-10047,2026-04-28,Cliente_18,São Paulo,Vestuário,1,291.9,concluído
+PED-10048,2026-02-06,Cliente_132,São Paulo,Vestuário,6,365.01,concluído
+PED-10049,2026-04-20,Cliente_139,Rio de Janeiro,Eletrônicos,2,2037.62,concluído
+PED-10050,2026-05-05,Cliente_201,São Paulo,Móveis,4,591.09,pendente
+PED-10051,2026-04-08,Cliente_25,São Paulo,Móveis,4,1340.54,cancelado
+PED-10052,2026-07-01,Cliente_109,São Paulo,Eletrônicos,2,1304.04,concluído
+PED-10053,2026-11-27,Cliente_26,Campinas,Esportes,1,182.11,concluído
+PED-10054,2026-02-25,Cliente_64,São Paulo,Eletrônicos,2,1115.19,concluído
+PED-10055,2026-03-13,Cliente_109,Belo Horizonte,Ferramentas,8,100.89,concluído
+PED-10056,2026-05-08,Cliente_224,Campinas,Esportes,8,97.89,concluído
+PED-10057,2026-10-09,Cliente_26,São Paulo,Eletrônicos,2,5600.98,concluído
+PED-10058,2026-02-17,Cliente_238,São Paulo,Esportes,1,48.72,pendente
+PED-10059,2026-03-27,Cliente_105,São Paulo,Eletrônicos,1,4718.54,concluído
+PED-10060,2026-07-25,Cliente_232,Rio de Janeiro,Ferramentas,4,209.69,concluído
+PED-10061,2026-01-02,Cliente_100,São Paulo,Esportes,7,51.7,concluído
+PED-10062,2026-05-27,Cliente_109,Rio de Janeiro,Vestuário,8,128.13,concluído
+PED-10063,2026-03-21,Cliente_49,São Paulo,Eletrônicos,2,4422.28,concluído
+PED-10064,2026-10-24,Cliente_189,São Paulo,Móveis,1,952.76,cancelado
+PED-10065,2026-01-30,Cliente_13,Belo Horizonte,Eletrônicos,2,3619.42,concluído
+PED-10066,2026-01-30,Cliente_246,Campinas,Móveis,2,1585.19,concluído
+PED-10067,2026-02-05,Cliente_153,Belo Horizonte,Móveis,2,1417.22,pendente
+PED-10068,2026-07-26,Cliente_31,Rio de Janeiro,Eletrônicos,1,1153.4,concluído
+PED-10069,2026-10-24,Cliente_153,São Paulo,Esportes,4,378.39,concluído
+PED-10070,2026-08-03,Cliente_169,Porto Alegre,Eletrônicos,1,1006.66,concluído
+PED-10071,2026-05-14,Cliente_53,Curitiba,Vestuário,6,245.96,concluído
+PED-10072,2026-05-03,Cliente_68,São Paulo,Eletrônicos,2,4282.58,concluído
+PED-10073,2026-08-23,Cliente_81,São Paulo,Esportes,5,176.44,concluído
+PED-10074,2026-01-05,Cliente_118,Belo Horizonte,Vestuário,2,373.74,concluído
+PED-10075,2026-02-07,Cliente_138,Campinas,Eletrônicos,1,4030.03,concluído
+PED-10076,2026-03-09,Cliente_239,São Paulo,Móveis,3,768.94,concluído
+PED-10077,2026-05-06,Cliente_95,São Paulo,Ferramentas,2,159.13,concluído
+PED-10078,2026-10-06,Cliente_181,Curitiba,Eletrônicos,2,2281.93,concluído
+PED-10079,2026-10-11,Cliente_77,São Paulo,Vestuário,1,141.93,concluído
+PED-10080,2026-03-10,Cliente_68,Rio de Janeiro,Esportes,2,374.75,concluído
+PED-10081,2026-10-11,Cliente_40,Belo Horizonte,Ferramentas,2,72.71,concluído
+PED-10082,2026-06-25,Cliente_53,Campinas,Vestuário,4,130.77,concluído
+PED-10083,2026-09-16,Cliente_126,Rio de Janeiro,Esportes,5,284.37,concluído
+PED-10084,2026-02-17,Cliente_163,Porto Alegre,Esportes,1,122.91,concluído
+PED-10085,2026-01-23,Cliente_1,São Paulo,Vestuário,5,186.72,concluído
+PED-10086,2026-11-23,Cliente_68,São Paulo,Esportes,3,153.42,cancelado
+PED-10087,2026-10-10,Cliente_181,Campinas,Ferramentas,8,89.79,concluído
+PED-10088,2026-02-27,Cliente_20,Curitiba,Ferramentas,1,188.24,cancelado
+PED-10089,2026-10-07,Cliente_10,São Paulo,Ferramentas,3,379.67,concluído
+PED-10090,2026-08-09,Cliente_33,Campinas,Esportes,3,338.8,concluído
+PED-10091,2026-01-21,Cliente_231,São Paulo,Eletrônicos,2,1017.51,concluído
+PED-10092,2026-02-22,Cliente_91,São Paulo,Eletrônicos,1,2660.61,concluído
+PED-10093,2026-11-14,Cliente_192,Porto Alegre,Vestuário,7,318.64,concluído
+PED-10094,2026-03-25,Cliente_250,São Paulo,Móveis,2,640.02,concluído
+PED-10095,2026-07-31,Cliente_7,São Paulo,Móveis,2,2059.75,cancelado
+PED-10096,2026-07-30,Cliente_206,Belo Horizonte,Vestuário,6,96.36,concluído
+PED-10097,2026-05-17,Cliente_41,Rio de Janeiro,Móveis,2,1773.8,cancelado
+PED-10098,2026-07-15,Cliente_224,Porto Alegre,Eletrônicos,1,4894.35,concluído
+PED-10099,2026-04-24,Cliente_52,São Paulo,Eletrônicos,2,1001.37,concluído
+PED-10100,2026-06-29,Cliente_79,São Paulo,Esportes,8,332.14,concluído
+PED-10101,2026-04-25,Cliente_7,São Paulo,Móveis,2,2105.18,concluído
+PED-10102,2026-06-18,Cliente_72,Rio de Janeiro,Vestuário,7,274.21,concluído
+PED-10103,2026-06-29,Cliente_165,Rio de Janeiro,Ferramentas,5,349.81,concluído
+PED-10104,2026-01-15,Cliente_30,Porto Alegre,Eletrônicos,2,3448.91,concluído
+PED-10105,2026-04-02,Cliente_149,Porto Alegre,Vestuário,5,354.5,concluído
+PED-10106,2026-01-20,Cliente_28,Rio de Janeiro,Ferramentas,5,386.14,concluído
+PED-10107,2026-06-10,Cliente_112,Campinas,Esportes,6,250.73,concluído
+PED-10108,2026-07-17,Cliente_231,São Paulo,Vestuário,2,254.3,concluído
+PED-10109,2026-01-23,Cliente_182,Curitiba,Ferramentas,5,243.34,pendente
+PED-10110,2026-07-06,Cliente_111,Curitiba,Vestuário,4,191.34,concluído
+PED-10111,2026-11-16,Cliente_81,São Paulo,Esportes,6,55.89,concluído
+PED-10112,2026-06-03,Cliente_130,São Paulo,Móveis,1,1759.45,pendente
+PED-10113,2026-06-17,Cliente_104,Porto Alegre,Eletrônicos,2,2408.28,concluído
+PED-10114,2026-04-09,Cliente_108,São Paulo,Móveis,2,1833.86,concluído
+PED-10115,2026-03-31,Cliente_158,São Paulo,Eletrônicos,2,4257.63,concluído
+PED-10116,2026-10-08,Cliente_214,São Paulo,Ferramentas,7,240.57,concluído
+PED-10117,2026-04-18,Cliente_111,Rio de Janeiro,Ferramentas,5,30.15,concluído
+PED-10118,2026-08-27,Cliente_114,São Paulo,Vestuário,6,320.73,concluído
+PED-10119,2026-09-19,Cliente_122,São Paulo,Esportes,4,193.6,concluído
+PED-10120,2026-02-13,Cliente_73,São Paulo,Esportes,3,323.68,concluído
+PED-10121,2026-02-17,Cliente_210,São Paulo,Móveis,3,1433.99,concluído
+PED-10122,2026-06-08,Cliente_58,Rio de Janeiro,Eletrônicos,1,5750.4,concluído
+PED-10123,2026-01-13,Cliente_12,Belo Horizonte,Móveis,2,2074.44,cancelado
+PED-10124,2026-11-09,Cliente_218,Belo Horizonte,Móveis,4,838.65,concluído
+PED-10125,2026-08-01,Cliente_227,São Paulo,Vestuário,8,314.34,concluído
+PED-10126,2026-07-16,Cliente_127,Porto Alegre,Ferramentas,4,263.01,concluído
+PED-10127,2026-01-03,Cliente_229,Belo Horizonte,Móveis,2,1179.24,concluído
+PED-10128,2026-08-06,Cliente_57,Rio de Janeiro,Vestuário,2,307.86,concluído
+PED-10129,2026-01-26,Cliente_143,Belo Horizonte,Vestuário,8,95.08,concluído
+PED-10130,2026-08-22,Cliente_35,Rio de Janeiro,Vestuário,2,122.2,concluído
+PED-10131,2026-08-15,Cliente_157,Belo Horizonte,Eletrônicos,2,4967.37,pendente
+PED-10132,2026-10-08,Cliente_115,Campinas,Esportes,7,331.55,concluído
+PED-10133,2026-08-19,Cliente_67,São Paulo,Móveis,4,2273.86,concluído
+PED-10134,2026-09-24,Cliente_125,Belo Horizonte,Eletrônicos,2,4709.24,concluído
+PED-10135,2026-08-14,Cliente_20,São Paulo,Móveis,3,1678.85,concluído
+PED-10136,2026-05-20,Cliente_86,Porto Alegre,Eletrônicos,1,4510.43,concluído
+PED-10137,2026-03-12,Cliente_39,Belo Horizonte,Móveis,1,1003.36,cancelado
+PED-10138,2026-04-20,Cliente_17,Porto Alegre,Esportes,3,115.57,concluído
+PED-10139,2026-10-05,Cliente_120,Campinas,Esportes,6,183.5,concluído
+PED-10140,2026-08-04,Cliente_100,Curitiba,Vestuário,4,183.84,pendente
+PED-10141,2026-10-22,Cliente_98,São Paulo,Móveis,1,2290.64,concluído
+PED-10142,2026-06-02,Cliente_193,Rio de Janeiro,Ferramentas,6,206.48,concluído
+PED-10143,2026-10-03,Cliente_192,Belo Horizonte,Eletrônicos,2,2827.93,concluído
+PED-10144,2026-09-07,Cliente_57,São Paulo,Eletrônicos,1,4620.1,concluído
+PED-10145,2026-01-15,Cliente_100,Porto Alegre,Ferramentas,8,130.99,concluído
+PED-10146,2026-03-26,Cliente_216,São Paulo,Esportes,7,154.37,pendente
+PED-10147,2026-11-15,Cliente_137,Porto Alegre,Eletrônicos,1,3230.43,concluído
+PED-10148,2026-10-31,Cliente_145,Campinas,Esportes,7,39.98,concluído
+PED-10149,2026-11-26,Cliente_110,Belo Horizonte,Ferramentas,2,275.31,concluído
+PED-10150,2026-04-04,Cliente_13,Belo Horizonte,Esportes,8,80.21,concluído
+PED-10151,2026-04-19,Cliente_117,Curitiba,Eletrônicos,2,2152.81,concluído
+PED-10152,2026-05-23,Cliente_193,Campinas,Móveis,4,1019.06,concluído
+PED-10153,2026-05-10,Cliente_214,Rio de Janeiro,Ferramentas,7,381.95,concluído
+PED-10154,2026-10-04,Cliente_14,Rio de Janeiro,Vestuário,1,60.31,concluído
+PED-10155,2026-04-25,Cliente_167,São Paulo,Móveis,3,2499.8,cancelado
+PED-10156,2026-01-16,Cliente_244,Porto Alegre,Ferramentas,1,55.39,concluído
+PED-10157,2026-11-15,Cliente_40,São Paulo,Vestuário,1,121.49,concluído
+PED-10158,2026-02-28,Cliente_145,São Paulo,Ferramentas,8,118.26,concluído
+PED-10159,2026-05-12,Cliente_197,Rio de Janeiro,Ferramentas,8,380.67,concluído
+PED-10160,2026-03-25,Cliente_247,Porto Alegre,Eletrônicos,1,2718.25,concluído
+PED-10161,2026-06-09,Cliente_148,São Paulo,Esportes,1,145.08,concluído
+PED-10162,2026-07-23,Cliente_242,Curitiba,Vestuário,7,280.62,concluído
+PED-10163,2026-10-31,Cliente_177,São Paulo,Vestuário,2,294.56,concluído
+PED-10164,2026-02-22,Cliente_179,São Paulo,Móveis,2,2127.26,cancelado
+PED-10165,2026-10-17,Cliente_201,Curitiba,Eletrônicos,1,4816.9,concluído
+PED-10166,2026-07-09,Cliente_18,Belo Horizonte,Esportes,7,45.2,pendente
+PED-10167,2026-01-07,Cliente_218,São Paulo,Eletrônicos,2,3431.0,concluído
+PED-10168,2026-02-24,Cliente_111,Rio de Janeiro,Ferramentas,8,185.42,pendente
+PED-10169,2026-03-20,Cliente_112,São Paulo,Ferramentas,8,385.49,concluído
+PED-10170,2026-11-12,Cliente_207,Porto Alegre,Ferramentas,5,95.17,pendente
+PED-10171,2026-08-27,Cliente_112,São Paulo,Vestuário,8,370.26,concluído
+PED-10172,2026-06-15,Cliente_219,São Paulo,Eletrônicos,2,5093.82,concluído
+PED-10173,2026-05-23,Cliente_226,São Paulo,Eletrônicos,1,2076.57,concluído
+PED-10174,2026-10-19,Cliente_157,Rio de Janeiro,Eletrônicos,2,3144.17,cancelado
+PED-10175,2026-01-15,Cliente_127,Campinas,Esportes,6,277.23,concluído
+PED-10176,2026-09-07,Cliente_55,São Paulo,Móveis,2,2172.1,concluído
+PED-10177,2026-06-24,Cliente_72,Rio de Janeiro,Móveis,3,1080.61,concluído
+PED-10178,2026-10-12,Cliente_3,São Paulo,Ferramentas,5,355.72,pendente
+PED-10179,2026-02-13,Cliente_62,Campinas,Eletrônicos,1,3486.46,concluído
+PED-10180,2026-10-12,Cliente_195,São Paulo,Ferramentas,8,296.43,concluído
+PED-10181,2026-11-27,Cliente_183,São Paulo,Vestuário,8,118.92,concluído
+PED-10182,2026-02-17,Cliente_76,Campinas,Ferramentas,1,211.6,concluído
+PED-10183,2026-06-06,Cliente_170,São Paulo,Móveis,2,787.51,cancelado
+PED-10184,2026-10-11,Cliente_136,São Paulo,Eletrônicos,2,3824.09,concluído
+PED-10185,2026-06-30,Cliente_180,Rio de Janeiro,Eletrônicos,2,2587.54,concluído
+PED-10186,2026-05-09,Cliente_60,Curitiba,Eletrônicos,2,3159.48,pendente
+PED-10187,2026-06-11,Cliente_31,Porto Alegre,Ferramentas,4,74.64,concluído
+PED-10188,2026-04-09,Cliente_56,São Paulo,Eletrônicos,1,4662.98,concluído
+PED-10189,2026-10-29,Cliente_195,São Paulo,Esportes,5,303.28,concluído
+PED-10190,2026-02-21,Cliente_214,Campinas,Vestuário,5,224.12,concluído
+PED-10191,2026-07-04,Cliente_46,Curitiba,Ferramentas,4,101.82,concluído
+PED-10192,2026-05-21,Cliente_12,São Paulo,Ferramentas,3,141.84,concluído
+PED-10193,2026-03-06,Cliente_164,São Paulo,Vestuário,5,390.49,concluído
+PED-10194,2026-02-22,Cliente_224,São Paulo,Eletrônicos,2,5316.0,concluído
+PED-10195,2026-08-29,Cliente_123,Belo Horizonte,Esportes,5,34.54,concluído
+PED-10196,2026-01-27,Cliente_65,São Paulo,Móveis,2,1269.03,concluído
+PED-10197,2026-02-28,Cliente_211,Curitiba,Vestuário,8,378.19,concluído
+PED-10198,2026-02-07,Cliente_148,Porto Alegre,Esportes,8,54.18,concluído
+PED-10199,2026-03-19,Cliente_39,Porto Alegre,Eletrônicos,1,4073.12,concluído
+PED-10200,2026-02-13,Cliente_64,Rio de Janeiro,Ferramentas,5,330.12,concluído
+PED-10201,2026-11-07,Cliente_153,Curitiba,Vestuário,7,73.83,cancelado
+PED-10202,2026-09-25,Cliente_98,Belo Horizonte,Móveis,2,2039.63,concluído
+PED-10203,2026-06-02,Cliente_221,Rio de Janeiro,Vestuário,8,196.69,concluído
+PED-10204,2026-06-06,Cliente_146,Curitiba,Eletrônicos,2,3860.33,concluído
+PED-10205,2026-04-17,Cliente_161,Curitiba,Esportes,2,259.78,concluído
+PED-10206,2026-03-22,Cliente_62,Rio de Janeiro,Eletrônicos,1,1897.33,cancelado
+PED-10207,2026-03-22,Cliente_1,São Paulo,Eletrônicos,1,1703.83,concluído
+PED-10208,2026-05-30,Cliente_9,São Paulo,Ferramentas,8,181.15,pendente
+PED-10209,2026-08-21,Cliente_19,Rio de Janeiro,Ferramentas,5,115.65,concluído
+PED-10210,2026-11-17,Cliente_151,Rio de Janeiro,Vestuário,5,284.33,concluído
+PED-10211,2026-08-06,Cliente_30,São Paulo,Vestuário,4,274.64,concluído
+PED-10212,2026-05-17,Cliente_212,Belo Horizonte,Esportes,3,231.49,concluído
+PED-10213,2026-03-26,Cliente_203,Porto Alegre,Vestuário,1,82.63,concluído
+PED-10214,2026-08-13,Cliente_32,Campinas,Ferramentas,5,143.82,concluído
+PED-10215,2026-07-26,Cliente_242,São Paulo,Ferramentas,5,203.42,concluído
+PED-10216,2026-08-13,Cliente_21,São Paulo,Ferramentas,8,130.73,concluído
+PED-10217,2026-06-15,Cliente_155,Rio de Janeiro,Esportes,7,251.27,concluído
+PED-10218,2026-04-28,Cliente_247,São Paulo,Móveis,1,850.81,cancelado
+PED-10219,2026-05-18,Cliente_148,São Paulo,Eletrônicos,1,4306.35,concluído
+PED-10220,2026-08-29,Cliente_133,Belo Horizonte,Vestuário,3,44.89,cancelado
+PED-10221,2026-04-03,Cliente_150,São Paulo,Móveis,3,1733.32,cancelado
+PED-10222,2026-02-16,Cliente_121,São Paulo,Vestuário,8,191.28,concluído
+PED-10223,2026-06-14,Cliente_172,São Paulo,Móveis,3,1065.51,cancelado
+PED-10224,2026-06-18,Cliente_106,Rio de Janeiro,Móveis,2,530.12,cancelado
+PED-10225,2026-07-25,Cliente_209,São Paulo,Vestuário,5,286.66,concluído
+PED-10226,2026-08-21,Cliente_23,Porto Alegre,Vestuário,1,311.38,concluído
+PED-10227,2026-03-01,Cliente_249,São Paulo,Móveis,3,991.94,concluído
+PED-10228,2026-10-05,Cliente_119,São Paulo,Eletrônicos,1,4817.25,concluído
+PED-10229,2026-09-23,Cliente_93,São Paulo,Eletrônicos,1,2948.89,concluído
+PED-10230,2026-11-17,Cliente_114,São Paulo,Esportes,8,260.37,concluído
+PED-10231,2026-05-17,Cliente_141,São Paulo,Eletrônicos,1,4751.95,concluído
+PED-10232,2026-08-13,Cliente_226,Curitiba,Ferramentas,5,78.47,concluído
+PED-10233,2026-01-15,Cliente_250,Rio de Janeiro,Móveis,1,1836.15,cancelado
+PED-10234,2026-03-23,Cliente_80,Rio de Janeiro,Esportes,4,263.11,concluído
+PED-10235,2026-02-17,Cliente_58,São Paulo,Esportes,7,233.81,concluído
+PED-10236,2026-08-25,Cliente_243,Rio de Janeiro,Vestuário,2,397.14,pendente
+PED-10237,2026-09-13,Cliente_239,Belo Horizonte,Eletrônicos,1,1410.82,concluído
+PED-10238,2026-08-01,Cliente_214,São Paulo,Esportes,5,295.14,concluído
+PED-10239,2026-05-05,Cliente_117,São Paulo,Eletrônicos,2,3309.0,concluído
+PED-10240,2026-04-08,Cliente_236,Rio de Janeiro,Ferramentas,7,233.97,pendente
+PED-10241,2026-02-05,Cliente_71,São Paulo,Móveis,2,1618.63,cancelado
+PED-10242,2026-06-24,Cliente_240,Campinas,Eletrônicos,2,4817.91,concluído
+PED-10243,2026-01-02,Cliente_73,Curitiba,Eletrônicos,2,4896.13,concluído
+PED-10244,2026-03-18,Cliente_115,Rio de Janeiro,Móveis,4,1897.31,concluído
+PED-10245,2026-06-20,Cliente_142,Curitiba,Móveis,3,1484.88,concluído
+PED-10246,2026-08-22,Cliente_239,São Paulo,Eletrônicos,2,4766.94,concluído
+PED-10247,2026-05-03,Cliente_147,Rio de Janeiro,Eletrônicos,1,2473.24,concluído
+PED-10248,2026-01-23,Cliente_82,São Paulo,Ferramentas,7,171.7,concluído
+PED-10249,2026-07-17,Cliente_170,Campinas,Ferramentas,7,305.54,concluído
+PED-10250,2026-09-11,Cliente_247,São Paulo,Móveis,2,2043.27,concluído
+PED-10251,2026-02-21,Cliente_224,Rio de Janeiro,Móveis,3,381.44,pendente
+PED-10252,2026-09-27,Cliente_234,São Paulo,Móveis,1,2159.09,concluído
+PED-10253,2026-07-29,Cliente_223,São Paulo,Eletrônicos,1,3176.03,concluído
+PED-10254,2026-02-08,Cliente_121,Rio de Janeiro,Vestuário,3,272.27,concluído
+PED-10255,2026-06-23,Cliente_160,Campinas,Esportes,5,319.16,pendente
+PED-10256,2026-06-18,Cliente_219,São Paulo,Vestuário,2,286.3,cancelado
+PED-10257,2026-06-12,Cliente_161,São Paulo,Vestuário,7,279.51,cancelado
+PED-10258,2026-10-05,Cliente_10,Curitiba,Esportes,8,295.93,concluído
+PED-10259,2026-11-20,Cliente_176,São Paulo,Eletrônicos,1,4010.79,concluído
+PED-10260,2026-02-16,Cliente_112,Curitiba,Vestuário,4,370.74,concluído
+PED-10261,2026-08-16,Cliente_43,Porto Alegre,Vestuário,2,391.98,concluído
+PED-10262,2026-01-24,Cliente_84,Campinas,Eletrônicos,1,4408.81,cancelado
+PED-10263,2026-07-03,Cliente_96,São Paulo,Vestuário,5,324.57,concluído
+PED-10264,2026-09-29,Cliente_106,Rio de Janeiro,Eletrônicos,1,3039.57,concluído
+PED-10265,2026-03-29,Cliente_45,Porto Alegre,Móveis,2,1545.04,concluído
+PED-10266,2026-11-14,Cliente_175,Campinas,Vestuário,7,59.22,concluído
+PED-10267,2026-04-29,Cliente_119,São Paulo,Vestuário,3,119.11,concluído
+PED-10268,2026-05-11,Cliente_171,São Paulo,Esportes,8,266.02,concluído
+PED-10269,2026-05-28,Cliente_174,Belo Horizonte,Esportes,8,33.48,concluído
+PED-10270,2026-08-15,Cliente_242,Rio de Janeiro,Ferramentas,2,232.24,concluído
+PED-10271,2026-11-24,Cliente_247,São Paulo,Ferramentas,5,157.86,concluído
+PED-10272,2026-08-22,Cliente_217,São Paulo,Esportes,5,186.99,concluído
+PED-10273,2026-09-05,Cliente_28,Curitiba,Vestuário,7,141.79,concluído
+PED-10274,2026-10-22,Cliente_76,São Paulo,Ferramentas,6,117.77,concluído
+PED-10275,2026-01-12,Cliente_213,Porto Alegre,Esportes,5,397.3,concluído
+PED-10276,2026-01-05,Cliente_145,Curitiba,Ferramentas,5,273.55,concluído
+PED-10277,2026-11-07,Cliente_191,São Paulo,Ferramentas,1,350.07,concluído
+PED-10278,2026-04-28,Cliente_156,Belo Horizonte,Vestuário,5,213.79,concluído
+PED-10279,2026-11-22,Cliente_49,Curitiba,Vestuário,4,326.71,concluído
+PED-10280,2026-11-18,Cliente_25,São Paulo,Móveis,2,1665.96,concluído
+PED-10281,2026-06-08,Cliente_202,São Paulo,Móveis,1,2287.49,cancelado
+PED-10282,2026-03-09,Cliente_24,São Paulo,Ferramentas,6,193.1,concluído
+PED-10283,2026-08-01,Cliente_45,São Paulo,Eletrônicos,2,5530.06,concluído
+PED-10284,2026-09-29,Cliente_129,Porto Alegre,Esportes,6,104.29,concluído
+PED-10285,2026-05-12,Cliente_234,Campinas,Ferramentas,3,367.99,cancelado
+PED-10286,2026-06-01,Cliente_192,Curitiba,Móveis,4,2114.32,cancelado
+PED-10287,2026-08-28,Cliente_247,São Paulo,Eletrônicos,1,5326.06,concluído
+PED-10288,2026-07-23,Cliente_248,Curitiba,Eletrônicos,1,1191.56,cancelado
+PED-10289,2026-02-16,Cliente_203,Rio de Janeiro,Ferramentas,6,342.93,pendente
+PED-10290,2026-10-02,Cliente_32,Porto Alegre,Eletrônicos,2,2851.79,concluído
+PED-10291,2026-10-27,Cliente_98,São Paulo,Vestuário,5,198.27,concluído
+PED-10292,2026-02-25,Cliente_173,São Paulo,Eletrônicos,2,5076.57,concluído
+PED-10293,2026-11-14,Cliente_227,São Paulo,Eletrônicos,1,2015.87,concluído
+PED-10294,2026-11-09,Cliente_57,São Paulo,Esportes,6,378.97,concluído
+PED-10295,2026-06-04,Cliente_167,Campinas,Móveis,4,1724.84,concluído
+PED-10296,2026-01-24,Cliente_243,Rio de Janeiro,Vestuário,3,181.07,concluído
+PED-10297,2026-03-01,Cliente_25,São Paulo,Esportes,8,43.77,cancelado
+PED-10298,2026-07-18,Cliente_117,São Paulo,Eletrônicos,1,2020.96,concluído
+PED-10299,2026-10-28,Cliente_191,São Paulo,Eletrônicos,2,2729.26,concluído
+PED-10300,2026-02-20,Cliente_214,Rio de Janeiro,Móveis,4,1898.52,concluído
+PED-10301,2026-05-24,Cliente_9,Belo Horizonte,Eletrônicos,2,3344.6,pendente
+PED-10302,2026-08-16,Cliente_114,São Paulo,Esportes,4,285.4,concluído
+PED-10303,2026-02-20,Cliente_176,São Paulo,Eletrônicos,2,5742.89,concluído
+PED-10304,2026-02-01,Cliente_102,São Paulo,Vestuário,6,165.91,concluído
+PED-10305,2026-08-21,Cliente_24,Porto Alegre,Ferramentas,2,132.08,concluído
+PED-10306,2026-01-26,Cliente_202,São Paulo,Vestuário,1,275.22,concluído
+PED-10307,2026-10-17,Cliente_53,Curitiba,Móveis,2,1033.72,concluído
+PED-10308,2026-10-28,Cliente_56,São Paulo,Móveis,2,450.94,concluído
+PED-10309,2026-06-18,Cliente_199,Curitiba,Esportes,4,330.83,concluído
+PED-10310,2026-05-22,Cliente_220,Porto Alegre,Vestuário,1,84.6,concluído
+PED-10311,2026-10-04,Cliente_65,São Paulo,Móveis,2,2464.86,concluído
+PED-10312,2026-01-14,Cliente_34,São Paulo,Esportes,2,325.45,concluído
+PED-10313,2026-10-29,Cliente_83,Porto Alegre,Eletrônicos,1,877.27,concluído
+PED-10314,2026-01-27,Cliente_33,São Paulo,Vestuário,5,35.84,concluído
+PED-10315,2026-02-02,Cliente_122,Rio de Janeiro,Eletrônicos,1,4656.93,concluído
+PED-10316,2026-09-20,Cliente_152,São Paulo,Eletrônicos,2,3131.03,concluído
+PED-10317,2026-11-11,Cliente_12,Curitiba,Vestuário,4,70.35,concluído
+PED-10318,2026-08-23,Cliente_165,Curitiba,Vestuário,5,299.08,pendente
+PED-10319,2026-09-03,Cliente_217,Campinas,Ferramentas,1,386.69,concluído
+PED-10320,2026-09-09,Cliente_183,São Paulo,Móveis,1,1183.56,concluído
+PED-10321,2026-02-11,Cliente_83,São Paulo,Ferramentas,2,366.59,concluído
+PED-10322,2026-03-06,Cliente_71,São Paulo,Esportes,2,255.07,concluído
+PED-10323,2026-07-15,Cliente_153,Curitiba,Eletrônicos,2,4046.45,concluído
+PED-10324,2026-09-16,Cliente_155,São Paulo,Móveis,4,1467.23,cancelado
+PED-10325,2026-10-10,Cliente_185,São Paulo,Esportes,2,189.17,concluído
+PED-10326,2026-08-20,Cliente_228,São Paulo,Eletrônicos,2,5300.56,concluído
+PED-10327,2026-08-21,Cliente_103,São Paulo,Esportes,6,114.54,pendente
+PED-10328,2026-06-10,Cliente_110,Curitiba,Eletrônicos,1,2963.15,cancelado
+PED-10329,2026-07-11,Cliente_245,Rio de Janeiro,Eletrônicos,2,2425.12,concluído
+PED-10330,2026-02-04,Cliente_24,Rio de Janeiro,Eletrônicos,2,1593.72,concluído
+PED-10331,2026-08-10,Cliente_25,Belo Horizonte,Eletrônicos,1,5125.21,concluído
+PED-10332,2026-03-08,Cliente_143,Porto Alegre,Esportes,6,305.5,concluído
+PED-10333,2026-03-04,Cliente_106,Campinas,Móveis,3,431.96,concluído
+PED-10334,2026-01-27,Cliente_248,São Paulo,Móveis,4,1077.92,concluído
+PED-10335,2026-06-30,Cliente_27,Porto Alegre,Eletrônicos,2,2295.67,concluído
+PED-10336,2026-03-21,Cliente_169,Rio de Janeiro,Eletrônicos,1,3805.18,concluído
+PED-10337,2026-06-29,Cliente_217,Curitiba,Ferramentas,2,208.41,concluído
+PED-10338,2026-05-23,Cliente_147,São Paulo,Eletrônicos,1,3692.58,concluído
+PED-10339,2026-10-15,Cliente_250,Curitiba,Móveis,4,797.55,cancelado
+PED-10340,2026-11-08,Cliente_238,Belo Horizonte,Móveis,1,1988.35,cancelado
+PED-10341,2026-01-15,Cliente_47,São Paulo,Esportes,5,273.4,concluído
+PED-10342,2026-06-23,Cliente_90,São Paulo,Móveis,3,901.19,concluído
+PED-10343,2026-10-17,Cliente_169,Curitiba,Vestuário,3,32.26,concluído
+PED-10344,2026-11-21,Cliente_249,Curitiba,Ferramentas,3,178.29,concluído
+PED-10345,2026-07-12,Cliente_108,São Paulo,Esportes,4,41.34,concluído
+PED-10346,2026-07-09,Cliente_80,São Paulo,Vestuário,3,197.85,cancelado
+PED-10347,2026-01-27,Cliente_40,São Paulo,Ferramentas,2,296.99,concluído
+PED-10348,2026-02-11,Cliente_70,São Paulo,Esportes,1,88.24,concluído
+PED-10349,2026-09-06,Cliente_156,Porto Alegre,Eletrônicos,2,3104.19,concluído
+PED-10350,2026-04-21,Cliente_194,Rio de Janeiro,Móveis,3,1272.5,cancelado
+PED-10351,2026-08-09,Cliente_29,Rio de Janeiro,Eletrônicos,2,3464.2,concluído
+PED-10352,2026-09-27,Cliente_171,Curitiba,Eletrônicos,2,2272.88,concluído
+PED-10353,2026-07-22,Cliente_154,Rio de Janeiro,Eletrônicos,1,2403.78,concluído
+PED-10354,2026-06-04,Cliente_243,Porto Alegre,Ferramentas,4,50.27,concluído
+PED-10355,2026-05-11,Cliente_75,Campinas,Móveis,2,764.71,concluído
+PED-10356,2026-09-12,Cliente_192,São Paulo,Vestuário,1,151.41,cancelado
+PED-10357,2026-07-14,Cliente_137,São Paulo,Móveis,2,1247.44,cancelado
+PED-10358,2026-02-06,Cliente_102,Rio de Janeiro,Esportes,6,290.36,concluído
+PED-10359,2026-08-12,Cliente_5,Porto Alegre,Ferramentas,1,348.85,concluído
+PED-10360,2026-06-10,Cliente_148,Curitiba,Eletrônicos,1,3190.72,cancelado
+PED-10361,2026-11-24,Cliente_107,Belo Horizonte,Vestuário,7,188.84,pendente
+PED-10362,2026-01-11,Cliente_248,Campinas,Móveis,4,936.93,cancelado
+PED-10363,2026-07-05,Cliente_23,Campinas,Móveis,4,1014.49,cancelado
+PED-10364,2026-05-05,Cliente_112,Campinas,Ferramentas,2,191.58,concluído
+PED-10365,2026-07-22,Cliente_223,São Paulo,Móveis,1,1595.52,concluído
+PED-10366,2026-04-24,Cliente_86,Curitiba,Esportes,6,144.8,concluído
+PED-10367,2026-09-19,Cliente_163,São Paulo,Móveis,1,2014.06,cancelado
+PED-10368,2026-06-28,Cliente_90,Belo Horizonte,Vestuário,4,72.19,concluído
+PED-10369,2026-05-01,Cliente_27,Rio de Janeiro,Vestuário,3,299.13,concluído
+PED-10370,2026-03-30,Cliente_155,São Paulo,Esportes,4,84.18,concluído
+PED-10371,2026-04-01,Cliente_244,Porto Alegre,Esportes,2,86.56,concluído
+PED-10372,2026-08-26,Cliente_194,São Paulo,Móveis,4,2000.27,concluído
+PED-10373,2026-10-17,Cliente_165,São Paulo,Esportes,8,238.58,concluído
+PED-10374,2026-11-18,Cliente_81,São Paulo,Móveis,3,1697.66,pendente
+PED-10375,2026-08-29,Cliente_114,São Paulo,Ferramentas,2,85.85,concluído
+PED-10376,2026-10-30,Cliente_15,Campinas,Vestuário,5,263.61,concluído
+PED-10377,2026-06-08,Cliente_119,São Paulo,Ferramentas,2,160.22,concluído
+PED-10378,2026-07-08,Cliente_213,São Paulo,Ferramentas,1,197.21,concluído
+PED-10379,2026-11-11,Cliente_153,Rio de Janeiro,Esportes,2,136.22,pendente
+PED-10380,2026-10-25,Cliente_142,Curitiba,Eletrônicos,2,3436.75,concluído
+PED-10381,2026-08-19,Cliente_233,Rio de Janeiro,Eletrônicos,1,5762.0,concluído
+PED-10382,2026-06-14,Cliente_155,São Paulo,Móveis,2,2081.6,concluído
+PED-10383,2026-02-01,Cliente_116,São Paulo,Eletrônicos,1,3273.27,concluído
+PED-10384,2026-02-13,Cliente_130,Campinas,Eletrônicos,2,1338.21,concluído
+PED-10385,2026-05-07,Cliente_182,São Paulo,Esportes,1,269.07,concluído
+PED-10386,2026-09-26,Cliente_134,Campinas,Ferramentas,8,191.97,concluído
+PED-10387,2026-07-10,Cliente_235,Rio de Janeiro,Vestuário,6,255.63,cancelado
+PED-10388,2026-06-23,Cliente_174,Campinas,Esportes,7,134.67,concluído
+PED-10389,2026-02-03,Cliente_85,São Paulo,Ferramentas,6,251.22,concluído
+PED-10390,2026-05-26,Cliente_65,Belo Horizonte,Ferramentas,7,64.97,concluído
+PED-10391,2026-06-20,Cliente_21,São Paulo,Eletrônicos,1,4563.42,concluído
+PED-10392,2026-06-29,Cliente_80,São Paulo,Vestuário,3,245.61,concluído
+PED-10393,2026-03-08,Cliente_153,Porto Alegre,Eletrônicos,2,5832.02,concluído
+PED-10394,2026-06-08,Cliente_144,Rio de Janeiro,Eletrônicos,1,4485.94,concluído
+PED-10395,2026-03-07,Cliente_172,São Paulo,Móveis,3,1128.69,concluído
+PED-10396,2026-11-27,Cliente_172,Campinas,Vestuário,2,290.05,concluído
+PED-10397,2026-01-10,Cliente_93,São Paulo,Ferramentas,6,186.66,concluído
+PED-10398,2026-06-24,Cliente_243,Rio de Janeiro,Ferramentas,4,144.28,concluído
+PED-10399,2026-04-26,Cliente_36,Porto Alegre,Vestuário,4,313.48,concluído
+PED-10400,2026-02-21,Cliente_130,Rio de Janeiro,Vestuário,5,87.33,pendente
+PED-10401,2026-06-22,Cliente_225,Porto Alegre,Eletrônicos,1,4808.55,concluído
+PED-10402,2026-11-02,Cliente_97,Campinas,Vestuário,3,313.53,concluído
+PED-10403,2026-11-16,Cliente_208,São Paulo,Vestuário,3,87.07,concluído
+PED-10404,2026-01-23,Cliente_106,Rio de Janeiro,Ferramentas,8,363.98,concluído
+PED-10405,2026-08-16,Cliente_157,Belo Horizonte,Ferramentas,4,164.79,pendente
+PED-10406,2026-04-30,Cliente_137,São Paulo,Ferramentas,8,135.42,concluído
+PED-10407,2026-04-10,Cliente_95,Rio de Janeiro,Móveis,4,826.17,cancelado
+PED-10408,2026-08-25,Cliente_197,Belo Horizonte,Vestuário,8,280.97,concluído
+PED-10409,2026-09-15,Cliente_136,Curitiba,Vestuário,7,134.26,concluído
+PED-10410,2026-04-13,Cliente_206,São Paulo,Vestuário,3,184.9,concluído
+PED-10411,2026-01-27,Cliente_165,Curitiba,Vestuário,5,253.73,concluído
+PED-10412,2026-10-11,Cliente_240,Campinas,Esportes,6,207.82,concluído
+PED-10413,2026-05-26,Cliente_22,Curitiba,Ferramentas,2,67.96,concluído
+PED-10414,2026-08-19,Cliente_232,Porto Alegre,Vestuário,5,312.35,concluído
+PED-10415,2026-02-16,Cliente_243,São Paulo,Vestuário,7,219.94,concluído
+PED-10416,2026-06-28,Cliente_239,Campinas,Móveis,4,2303.11,cancelado
+PED-10417,2026-07-22,Cliente_129,Porto Alegre,Ferramentas,1,39.87,concluído
+PED-10418,2026-02-11,Cliente_96,São Paulo,Ferramentas,7,168.37,concluído
+PED-10419,2026-02-20,Cliente_215,Campinas,Eletrônicos,2,1967.6,concluído
+PED-10420,2026-03-16,Cliente_36,São Paulo,Ferramentas,6,294.44,concluído
+PED-10421,2026-03-13,Cliente_195,São Paulo,Móveis,4,384.27,concluído
+PED-10422,2026-11-12,Cliente_2,Porto Alegre,Esportes,8,291.05,concluído
+PED-10423,2026-05-12,Cliente_56,Campinas,Ferramentas,1,365.17,concluído
+PED-10424,2026-02-26,Cliente_199,São Paulo,Esportes,7,338.94,concluído
+PED-10425,2026-03-04,Cliente_13,São Paulo,Eletrônicos,2,2298.13,concluído
+PED-10426,2026-02-02,Cliente_29,Curitiba,Eletrônicos,2,2039.89,concluído
+PED-10427,2026-11-02,Cliente_138,São Paulo,Móveis,4,2140.71,cancelado
+PED-10428,2026-03-15,Cliente_75,Campinas,Ferramentas,4,36.08,concluído
+PED-10429,2026-05-04,Cliente_147,Belo Horizonte,Esportes,6,188.82,concluído
+PED-10430,2026-09-26,Cliente_250,São Paulo,Vestuário,2,184.13,concluído
+PED-10431,2026-07-19,Cliente_224,São Paulo,Vestuário,1,163.42,concluído
+PED-10432,2026-07-11,Cliente_65,São Paulo,Móveis,4,1334.3,concluído
+PED-10433,2026-02-04,Cliente_89,Campinas,Eletrônicos,2,4686.05,concluído
+PED-10434,2026-10-25,Cliente_189,Porto Alegre,Ferramentas,2,119.22,concluído
+PED-10435,2026-01-23,Cliente_91,São Paulo,Móveis,2,1964.69,cancelado
+PED-10436,2026-08-26,Cliente_179,São Paulo,Vestuário,3,232.03,concluído
+PED-10437,2026-03-11,Cliente_17,Campinas,Esportes,3,207.06,concluído
+PED-10438,2026-01-19,Cliente_76,Curitiba,Ferramentas,8,294.94,concluído
+PED-10439,2026-01-22,Cliente_81,São Paulo,Eletrônicos,1,1848.27,concluído
+PED-10440,2026-10-06,Cliente_122,São Paulo,Móveis,4,2353.42,cancelado
+PED-10441,2026-05-27,Cliente_92,São Paulo,Ferramentas,4,123.73,concluído
+PED-10442,2026-06-19,Cliente_70,Porto Alegre,Esportes,1,348.99,concluído
+PED-10443,2026-08-12,Cliente_228,Rio de Janeiro,Vestuário,6,76.06,pendente
+PED-10444,2026-07-17,Cliente_87,São Paulo,Eletrônicos,2,2880.11,concluído
+PED-10445,2026-09-12,Cliente_95,São Paulo,Vestuário,8,390.28,concluído
+PED-10446,2026-02-12,Cliente_187,Curitiba,Vestuário,5,371.99,concluído
+PED-10447,2026-11-05,Cliente_211,São Paulo,Esportes,7,187.06,pendente
+PED-10448,2026-06-14,Cliente_27,São Paulo,Eletrônicos,2,1738.37,concluído
+PED-10449,2026-06-06,Cliente_115,Rio de Janeiro,Esportes,5,59.63,concluído
+PED-10450,2026-03-27,Cliente_177,Rio de Janeiro,Eletrônicos,2,3933.63,concluído
+PED-10451,2026-01-22,Cliente_187,Belo Horizonte,Ferramentas,8,194.25,concluído
+PED-10452,2026-11-11,Cliente_112,Curitiba,Vestuário,6,351.91,pendente
+PED-10453,2026-02-08,Cliente_172,São Paulo,Ferramentas,1,131.59,concluído
+PED-10454,2026-09-20,Cliente_206,São Paulo,Vestuário,6,265.88,concluído
+PED-10455,2026-01-16,Cliente_37,Porto Alegre,Eletrônicos,1,4699.47,concluído
+PED-10456,2026-01-18,Cliente_33,Rio de Janeiro,Eletrônicos,2,5213.08,concluído
+PED-10457,2026-07-05,Cliente_99,Campinas,Esportes,6,54.88,concluído
+PED-10458,2026-11-06,Cliente_40,Rio de Janeiro,Móveis,1,2388.83,concluído
+PED-10459,2026-07-10,Cliente_114,Rio de Janeiro,Eletrônicos,2,4331.12,cancelado
+PED-10460,2026-09-29,Cliente_94,São Paulo,Ferramentas,3,312.34,concluído
+PED-10461,2026-05-08,Cliente_246,São Paulo,Móveis,3,1175.67,pendente
+PED-10462,2026-09-13,Cliente_133,São Paulo,Móveis,2,549.59,cancelado
+PED-10463,2026-05-15,Cliente_199,São Paulo,Esportes,2,173.19,concluído
+PED-10464,2026-04-20,Cliente_157,Belo Horizonte,Vestuário,8,126.31,concluído
+PED-10465,2026-04-13,Cliente_32,Rio de Janeiro,Eletrônicos,2,2285.0,concluído
+PED-10466,2026-08-20,Cliente_45,Rio de Janeiro,Móveis,1,598.6,cancelado
+PED-10467,2026-02-14,Cliente_208,Campinas,Esportes,8,362.51,concluído
+PED-10468,2026-06-27,Cliente_182,São Paulo,Vestuário,6,282.31,concluído
+PED-10469,2026-06-03,Cliente_218,Belo Horizonte,Esportes,5,54.03,concluído
+PED-10470,2026-07-05,Cliente_131,Curitiba,Vestuário,3,88.28,concluído
+PED-10471,2026-03-13,Cliente_61,São Paulo,Vestuário,4,112.97,concluído
+PED-10472,2026-07-04,Cliente_142,Rio de Janeiro,Esportes,1,322.44,concluído
+PED-10473,2026-10-10,Cliente_34,Porto Alegre,Móveis,4,1559.01,concluído
+PED-10474,2026-02-03,Cliente_80,Rio de Janeiro,Ferramentas,2,256.42,concluído
+PED-10475,2026-09-27,Cliente_106,Curitiba,Vestuário,8,177.32,concluído
+PED-10476,2026-03-06,Cliente_249,São Paulo,Vestuário,2,314.59,concluído
+PED-10477,2026-08-19,Cliente_120,Campinas,Eletrônicos,1,2448.54,concluído
+PED-10478,2026-03-07,Cliente_225,São Paulo,Vestuário,6,281.64,concluído
+PED-10479,2026-03-08,Cliente_111,São Paulo,Eletrônicos,1,5111.08,concluído
+PED-10480,2026-03-05,Cliente_133,São Paulo,Ferramentas,1,216.06,concluído
+PED-10481,2026-03-24,Cliente_83,Curitiba,Esportes,3,86.62,concluído
+PED-10482,2026-06-27,Cliente_243,Curitiba,Esportes,4,375.85,concluído
+PED-10483,2026-02-10,Cliente_65,Rio de Janeiro,Vestuário,5,378.13,concluído
+PED-10484,2026-03-06,Cliente_161,São Paulo,Ferramentas,5,102.63,concluído
+PED-10485,2026-09-15,Cliente_165,Belo Horizonte,Móveis,1,966.21,cancelado
+PED-10486,2026-03-29,Cliente_169,Belo Horizonte,Vestuário,3,92.4,concluído
+PED-10487,2026-10-16,Cliente_11,Campinas,Esportes,6,261.06,concluído
+PED-10488,2026-02-11,Cliente_12,Rio de Janeiro,Ferramentas,1,335.34,concluído
+PED-10489,2026-04-18,Cliente_197,São Paulo,Esportes,5,380.96,cancelado
+PED-10490,2026-09-12,Cliente_228,São Paulo,Esportes,1,241.69,concluído
+PED-10491,2026-11-25,Cliente_245,Rio de Janeiro,Ferramentas,5,262.05,concluído
+PED-10492,2026-07-27,Cliente_77,Rio de Janeiro,Esportes,4,141.77,concluído
+PED-10493,2026-03-22,Cliente_113,Rio de Janeiro,Eletrônicos,1,3158.43,concluído
+PED-10494,2026-04-15,Cliente_88,São Paulo,Eletrônicos,2,2961.23,concluído
+PED-10495,2026-06-13,Cliente_188,Campinas,Móveis,3,1634.65,cancelado
+PED-10496,2026-07-24,Cliente_34,São Paulo,Eletrônicos,2,5937.72,concluído
+PED-10497,2026-06-13,Cliente_62,São Paulo,Ferramentas,2,311.45,concluído
+PED-10498,2026-08-19,Cliente_64,São Paulo,Móveis,3,1326.24,concluído
+PED-10499,2026-05-29,Cliente_243,São Paulo,Móveis,1,609.93,concluído
+PED-10500,2026-05-08,Cliente_247,Belo Horizonte,Eletrônicos,2,2797.58,concluído
+PED-10501,2026-06-17,Cliente_240,São Paulo,Vestuário,3,350.16,cancelado
+PED-10502,2026-04-08,Cliente_196,São Paulo,Esportes,6,243.74,concluído
+PED-10503,2026-09-13,Cliente_226,Belo Horizonte,Ferramentas,8,88.96,concluído
+PED-10504,2026-02-16,Cliente_242,Curitiba,Esportes,1,144.16,concluído
+PED-10505,2026-05-04,Cliente_56,Porto Alegre,Esportes,8,175.5,concluído
+PED-10506,2026-01-26,Cliente_73,São Paulo,Móveis,1,1583.36,concluído
+PED-10507,2026-05-27,Cliente_138,São Paulo,Móveis,4,1388.77,concluído
+PED-10508,2026-08-09,Cliente_35,São Paulo,Ferramentas,2,33.03,cancelado
+PED-10509,2026-07-26,Cliente_94,São Paulo,Eletrônicos,2,5388.77,concluído
+PED-10510,2026-10-19,Cliente_144,Belo Horizonte,Esportes,1,46.74,pendente
+PED-10511,2026-02-07,Cliente_99,Campinas,Vestuário,5,102.02,concluído
+PED-10512,2026-11-16,Cliente_175,São Paulo,Ferramentas,5,216.57,concluído
+PED-10513,2026-02-19,Cliente_101,Rio de Janeiro,Vestuário,3,256.09,concluído
+PED-10514,2026-10-13,Cliente_241,Belo Horizonte,Esportes,6,168.08,concluído
+PED-10515,2026-04-12,Cliente_155,São Paulo,Esportes,3,165.27,concluído
+PED-10516,2026-01-24,Cliente_10,São Paulo,Móveis,1,1420.07,concluído
+PED-10517,2026-08-31,Cliente_133,Curitiba,Ferramentas,6,80.7,concluído
+PED-10518,2026-06-17,Cliente_239,Porto Alegre,Móveis,2,1305.37,cancelado
+PED-10519,2026-07-21,Cliente_158,Campinas,Vestuário,3,256.84,concluído
+PED-10520,2026-10-31,Cliente_87,Rio de Janeiro,Eletrônicos,2,4644.46,concluído
+PED-10521,2026-10-16,Cliente_77,Porto Alegre,Eletrônicos,2,3438.04,concluído
+PED-10522,2026-07-08,Cliente_85,Campinas,Esportes,1,205.71,concluído
+PED-10523,2026-10-26,Cliente_79,São Paulo,Ferramentas,7,279.31,concluído
+PED-10524,2026-11-02,Cliente_122,Rio de Janeiro,Esportes,1,324.8,concluído
+PED-10525,2026-01-27,Cliente_150,Belo Horizonte,Eletrônicos,1,2180.76,cancelado
+PED-10526,2026-03-17,Cliente_211,Campinas,Ferramentas,7,207.77,concluído
+PED-10527,2026-10-21,Cliente_243,Rio de Janeiro,Eletrônicos,1,4339.78,concluído
+PED-10528,2026-01-10,Cliente_113,Belo Horizonte,Esportes,4,289.19,concluído
+PED-10529,2026-07-31,Cliente_177,Porto Alegre,Móveis,2,990.12,cancelado
+PED-10530,2026-02-01,Cliente_181,São Paulo,Ferramentas,8,105.44,concluído
+PED-10531,2026-10-15,Cliente_84,São Paulo,Eletrônicos,1,1518.03,concluído
+PED-10532,2026-09-27,Cliente_97,Belo Horizonte,Móveis,4,2495.87,concluído
+PED-10533,2026-08-24,Cliente_234,Belo Horizonte,Esportes,3,146.09,concluído
+PED-10534,2026-11-26,Cliente_206,Rio de Janeiro,Eletrônicos,2,3572.26,concluído
+PED-10535,2026-04-09,Cliente_246,São Paulo,Vestuário,8,286.53,concluído
+PED-10536,2026-04-26,Cliente_242,Belo Horizonte,Móveis,3,842.34,cancelado
+PED-10537,2026-05-28,Cliente_181,Rio de Janeiro,Ferramentas,5,389.98,concluído
+PED-10538,2026-06-12,Cliente_123,Rio de Janeiro,Esportes,8,106.69,concluído
+PED-10539,2026-05-28,Cliente_32,São Paulo,Esportes,5,159.06,concluído
+PED-10540,2026-07-22,Cliente_210,Rio de Janeiro,Esportes,7,242.19,concluído
+PED-10541,2026-05-29,Cliente_11,São Paulo,Móveis,2,1059.3,cancelado
+PED-10542,2026-06-27,Cliente_237,Rio de Janeiro,Ferramentas,2,136.42,concluído
+PED-10543,2026-09-03,Cliente_55,São Paulo,Ferramentas,5,193.68,concluído
+PED-10544,2026-10-15,Cliente_179,São Paulo,Vestuário,5,104.77,concluído
+PED-10545,2026-11-12,Cliente_190,São Paulo,Ferramentas,2,130.5,concluído
+PED-10546,2026-01-26,Cliente_172,São Paulo,Ferramentas,4,247.13,concluído
+PED-10547,2026-11-23,Cliente_60,Rio de Janeiro,Vestuário,4,364.92,cancelado
+PED-10548,2026-06-19,Cliente_184,Rio de Janeiro,Móveis,4,415.48,cancelado
+PED-10549,2026-01-03,Cliente_247,Curitiba,Eletrônicos,1,3256.5,pendente
+PED-10550,2026-07-28,Cliente_168,Porto Alegre,Vestuário,3,233.63,concluído
+PED-10551,2026-09-02,Cliente_167,Porto Alegre,Ferramentas,8,375.96,concluído
+PED-10552,2026-06-14,Cliente_74,São Paulo,Eletrônicos,2,1837.17,concluído
+PED-10553,2026-10-21,Cliente_60,São Paulo,Esportes,2,268.98,concluído
+PED-10554,2026-03-31,Cliente_107,São Paulo,Eletrônicos,1,3582.79,concluído
+PED-10555,2026-01-19,Cliente_215,Rio de Janeiro,Vestuário,3,356.43,concluído
+PED-10556,2026-04-06,Cliente_240,Belo Horizonte,Ferramentas,8,176.89,concluído
+PED-10557,2026-01-20,Cliente_3,São Paulo,Eletrônicos,2,4694.82,concluído
+PED-10558,2026-06-21,Cliente_73,São Paulo,Eletrônicos,1,2351.64,concluído
+PED-10559,2026-03-10,Cliente_218,Campinas,Eletrônicos,2,3162.62,concluído
+PED-10560,2026-04-09,Cliente_208,Curitiba,Móveis,3,1409.27,cancelado
+PED-10561,2026-08-23,Cliente_166,Porto Alegre,Móveis,2,547.82,cancelado
+PED-10562,2026-01-08,Cliente_189,Curitiba,Móveis,2,865.98,concluído
+PED-10563,2026-10-18,Cliente_173,Rio de Janeiro,Eletrônicos,2,2552.98,concluído
+PED-10564,2026-11-09,Cliente_220,Porto Alegre,Ferramentas,3,310.19,concluído
+PED-10565,2026-08-07,Cliente_132,São Paulo,Vestuário,7,266.33,concluído
+PED-10566,2026-02-18,Cliente_48,Rio de Janeiro,Móveis,4,1021.44,concluído
+PED-10567,2026-06-15,Cliente_240,Belo Horizonte,Eletrônicos,2,5904.76,concluído
+PED-10568,2026-07-16,Cliente_61,Campinas,Vestuário,5,121.78,concluído
+PED-10569,2026-06-18,Cliente_78,Belo Horizonte,Móveis,3,1282.82,concluído
+PED-10570,2026-05-14,Cliente_168,Curitiba,Eletrônicos,1,3828.8,concluído
+PED-10571,2026-02-01,Cliente_171,São Paulo,Vestuário,4,163.03,concluído
+PED-10572,2026-03-23,Cliente_104,São Paulo,Ferramentas,5,73.74,concluído
+PED-10573,2026-03-02,Cliente_164,São Paulo,Eletrônicos,2,4367.58,concluído
+PED-10574,2026-07-08,Cliente_158,São Paulo,Eletrônicos,2,5563.88,concluído
+PED-10575,2026-09-02,Cliente_40,São Paulo,Esportes,3,111.71,concluído
+PED-10576,2026-08-01,Cliente_180,Porto Alegre,Esportes,6,198.34,concluído
+PED-10577,2026-10-03,Cliente_206,São Paulo,Ferramentas,8,233.22,concluído
+PED-10578,2026-05-07,Cliente_175,Rio de Janeiro,Vestuário,4,275.71,concluído
+PED-10579,2026-09-27,Cliente_115,São Paulo,Vestuário,2,309.25,concluído
+PED-10580,2026-02-09,Cliente_235,São Paulo,Esportes,6,225.42,concluído
+PED-10581,2026-10-08,Cliente_232,Rio de Janeiro,Móveis,1,1541.17,concluído
+PED-10582,2026-03-26,Cliente_84,São Paulo,Esportes,3,217.03,concluído
+PED-10583,2026-03-01,Cliente_175,Campinas,Ferramentas,8,346.16,concluído
+PED-10584,2026-02-16,Cliente_231,São Paulo,Móveis,4,751.88,concluído
+PED-10585,2026-08-21,Cliente_34,Rio de Janeiro,Esportes,1,218.84,concluído
+PED-10586,2026-10-16,Cliente_15,Belo Horizonte,Esportes,8,219.9,concluído
+PED-10587,2026-01-12,Cliente_102,São Paulo,Esportes,5,236.75,pendente
+PED-10588,2026-04-22,Cliente_149,São Paulo,Esportes,1,124.15,cancelado
+PED-10589,2026-06-26,Cliente_180,Rio de Janeiro,Eletrônicos,2,1179.75,concluído
+PED-10590,2026-02-05,Cliente_240,São Paulo,Móveis,1,440.27,cancelado
+PED-10591,2026-07-29,Cliente_47,Porto Alegre,Ferramentas,5,204.67,concluído
+PED-10592,2026-07-11,Cliente_229,Curitiba,Móveis,4,1991.74,concluído
+PED-10593,2026-07-12,Cliente_21,São Paulo,Móveis,4,1141.46,concluído
+PED-10594,2026-06-28,Cliente_31,São Paulo,Móveis,2,1802.01,cancelado
+PED-10595,2026-09-28,Cliente_33,Rio de Janeiro,Vestuário,7,96.04,concluído
+PED-10596,2026-01-02,Cliente_194,São Paulo,Móveis,2,1901.29,cancelado
+PED-10597,2026-08-26,Cliente_173,Rio de Janeiro,Vestuário,5,38.41,concluído
+PED-10598,2026-09-30,Cliente_98,Rio de Janeiro,Esportes,7,296.06,concluído
+PED-10599,2026-08-24,Cliente_89,São Paulo,Eletrônicos,1,5081.47,concluído
+PED-10600,2026-02-27,Cliente_9,Porto Alegre,Vestuário,4,87.39,concluído
+PED-10601,2026-11-11,Cliente_197,Rio de Janeiro,Vestuário,7,329.51,concluído
+PED-10602,2026-05-04,Cliente_53,São Paulo,Eletrônicos,1,5668.44,concluído
+PED-10603,2026-08-17,Cliente_154,São Paulo,Vestuário,1,54.9,concluído
+PED-10604,2026-05-06,Cliente_190,São Paulo,Esportes,1,278.65,concluído
+PED-10605,2026-04-30,Cliente_139,Campinas,Móveis,4,397.32,concluído
+PED-10606,2026-03-13,Cliente_129,Porto Alegre,Esportes,1,110.39,concluído
+PED-10607,2026-10-22,Cliente_82,São Paulo,Ferramentas,4,397.59,concluído
+PED-10608,2026-05-02,Cliente_78,Campinas,Eletrônicos,2,3802.87,concluído
+PED-10609,2026-07-31,Cliente_77,São Paulo,Ferramentas,4,354.22,concluído
+PED-10610,2026-11-17,Cliente_174,São Paulo,Esportes,3,131.81,concluído
+PED-10611,2026-01-25,Cliente_249,Curitiba,Esportes,8,188.06,concluído
+PED-10612,2026-09-26,Cliente_82,Rio de Janeiro,Móveis,4,1057.71,concluído
+PED-10613,2026-03-18,Cliente_77,Porto Alegre,Ferramentas,7,287.63,concluído
+PED-10614,2026-05-04,Cliente_218,Belo Horizonte,Vestuário,8,169.29,concluído
+PED-10615,2026-08-26,Cliente_235,Rio de Janeiro,Móveis,2,795.76,concluído
+PED-10616,2026-08-02,Cliente_143,São Paulo,Vestuário,7,51.32,concluído
+PED-10617,2026-05-05,Cliente_66,Belo Horizonte,Eletrônicos,2,3555.96,concluído
+PED-10618,2026-08-19,Cliente_217,São Paulo,Ferramentas,2,105.23,concluído
+PED-10619,2026-01-27,Cliente_69,São Paulo,Vestuário,4,167.3,concluído
+PED-10620,2026-02-07,Cliente_49,Belo Horizonte,Eletrônicos,1,2761.27,concluído
+PED-10621,2026-09-03,Cliente_54,Campinas,Eletrônicos,1,4984.18,concluído
+PED-10622,2026-06-05,Cliente_245,São Paulo,Ferramentas,6,351.71,concluído
+PED-10623,2026-04-08,Cliente_247,Rio de Janeiro,Móveis,2,2299.79,concluído
+PED-10624,2026-05-05,Cliente_179,Porto Alegre,Ferramentas,8,304.35,concluído
+PED-10625,2026-07-23,Cliente_235,Rio de Janeiro,Ferramentas,4,253.63,concluído
+PED-10626,2026-05-25,Cliente_98,Campinas,Móveis,3,826.53,concluído
+PED-10627,2026-06-07,Cliente_67,São Paulo,Ferramentas,6,202.51,concluído
+PED-10628,2026-08-27,Cliente_26,São Paulo,Ferramentas,8,163.07,concluído
+PED-10629,2026-06-13,Cliente_235,São Paulo,Móveis,4,2066.2,cancelado
+PED-10630,2026-07-31,Cliente_12,São Paulo,Ferramentas,6,105.16,pendente
+PED-10631,2026-03-16,Cliente_5,Rio de Janeiro,Vestuário,4,238.13,concluído
+PED-10632,2026-06-01,Cliente_40,Belo Horizonte,Ferramentas,7,126.49,concluído
+PED-10633,2026-07-14,Cliente_146,São Paulo,Móveis,2,731.62,concluído
+PED-10634,2026-10-09,Cliente_168,Porto Alegre,Esportes,8,338.34,concluído
+PED-10635,2026-05-12,Cliente_196,Porto Alegre,Ferramentas,6,379.08,concluído
+PED-10636,2026-08-24,Cliente_44,Rio de Janeiro,Ferramentas,8,333.99,pendente
+PED-10637,2026-03-28,Cliente_36,São Paulo,Eletrônicos,2,4610.42,concluído
+PED-10638,2026-04-05,Cliente_235,Campinas,Móveis,4,1884.69,concluído
+PED-10639,2026-09-26,Cliente_9,São Paulo,Móveis,1,2256.6,cancelado
+PED-10640,2026-01-25,Cliente_196,São Paulo,Ferramentas,2,340.46,concluído
+PED-10641,2026-11-19,Cliente_60,Rio de Janeiro,Vestuário,3,32.36,concluído
+PED-10642,2026-01-05,Cliente_56,São Paulo,Eletrônicos,1,1153.43,concluído
+PED-10643,2026-01-31,Cliente_159,Rio de Janeiro,Vestuário,6,217.12,concluído
+PED-10644,2026-09-07,Cliente_5,Campinas,Ferramentas,8,265.96,concluído
+PED-10645,2026-01-07,Cliente_5,São Paulo,Vestuário,7,32.45,concluído
+PED-10646,2026-10-02,Cliente_74,Porto Alegre,Vestuário,5,225.88,concluído
+PED-10647,2026-04-02,Cliente_28,Campinas,Ferramentas,7,36.34,concluído
+PED-10648,2026-05-04,Cliente_50,Rio de Janeiro,Esportes,3,369.68,concluído
+PED-10649,2026-07-01,Cliente_69,Curitiba,Vestuário,5,259.32,concluído
+PED-10650,2026-07-11,Cliente_246,São Paulo,Ferramentas,2,324.13,concluído
+PED-10651,2026-04-26,Cliente_77,Porto Alegre,Móveis,2,1193.26,concluído
+PED-10652,2026-01-17,Cliente_24,São Paulo,Esportes,2,283.1,concluído
+PED-10653,2026-10-10,Cliente_122,Curitiba,Eletrônicos,2,2907.45,pendente
+PED-10654,2026-03-29,Cliente_22,Belo Horizonte,Vestuário,1,50.76,concluído
+PED-10655,2026-11-27,Cliente_201,Belo Horizonte,Eletrônicos,2,3399.26,concluído
+PED-10656,2026-09-28,Cliente_236,Rio de Janeiro,Móveis,1,1028.8,concluído
+PED-10657,2026-10-18,Cliente_122,São Paulo,Vestuário,4,45.74,pendente
+PED-10658,2026-05-24,Cliente_231,Belo Horizonte,Ferramentas,2,130.31,cancelado
+PED-10659,2026-04-02,Cliente_238,Rio de Janeiro,Esportes,1,230.92,concluído
+PED-10660,2026-04-17,Cliente_151,São Paulo,Eletrônicos,1,5222.22,cancelado
+PED-10661,2026-02-09,Cliente_77,São Paulo,Eletrônicos,2,1549.8,concluído
+PED-10662,2026-10-18,Cliente_214,Rio de Janeiro,Móveis,2,657.39,cancelado
+PED-10663,2026-07-16,Cliente_194,Campinas,Esportes,6,344.29,concluído
+PED-10664,2026-09-14,Cliente_191,São Paulo,Eletrônicos,1,4646.67,concluído
+PED-10665,2026-02-20,Cliente_112,São Paulo,Eletrônicos,1,5866.48,concluído
+PED-10666,2026-06-24,Cliente_155,Rio de Janeiro,Ferramentas,2,115.89,concluído
+PED-10667,2026-06-17,Cliente_8,Rio de Janeiro,Esportes,7,314.53,concluído
+PED-10668,2026-09-09,Cliente_59,São Paulo,Vestuário,8,264.63,concluído
+PED-10669,2026-08-10,Cliente_48,Rio de Janeiro,Ferramentas,7,161.65,concluído
+PED-10670,2026-02-13,Cliente_198,São Paulo,Esportes,7,281.49,concluído
+PED-10671,2026-02-07,Cliente_22,São Paulo,Vestuário,4,258.89,concluído
+PED-10672,2026-11-21,Cliente_40,São Paulo,Vestuário,7,129.15,concluído
+PED-10673,2026-07-04,Cliente_28,Curitiba,Vestuário,6,303.67,concluído
+PED-10674,2026-08-16,Cliente_93,Rio de Janeiro,Ferramentas,5,63.86,concluído
+PED-10675,2026-03-09,Cliente_23,Rio de Janeiro,Eletrônicos,1,4759.0,concluído
+PED-10676,2026-10-13,Cliente_143,São Paulo,Móveis,4,712.26,cancelado
+PED-10677,2026-01-14,Cliente_23,Porto Alegre,Esportes,2,219.6,concluído
+PED-10678,2026-11-02,Cliente_154,Campinas,Vestuário,2,160.95,concluído
+PED-10679,2026-01-07,Cliente_75,Porto Alegre,Vestuário,7,320.24,concluído
+PED-10680,2026-10-14,Cliente_232,Curitiba,Vestuário,2,183.11,concluído
+PED-10681,2026-10-20,Cliente_134,São Paulo,Ferramentas,4,397.31,concluído
+PED-10682,2026-03-28,Cliente_36,Rio de Janeiro,Móveis,4,673.08,cancelado
+PED-10683,2026-09-10,Cliente_38,São Paulo,Eletrônicos,2,2198.38,concluído
+PED-10684,2026-05-22,Cliente_108,Curitiba,Ferramentas,7,53.41,concluído
+PED-10685,2026-07-04,Cliente_65,São Paulo,Vestuário,2,140.91,concluído
+PED-10686,2026-11-01,Cliente_158,Rio de Janeiro,Vestuário,8,379.36,pendente
+PED-10687,2026-03-11,Cliente_78,São Paulo,Ferramentas,2,102.35,concluído
+PED-10688,2026-06-20,Cliente_216,Curitiba,Vestuário,7,32.5,concluído
+PED-10689,2026-08-14,Cliente_86,Belo Horizonte,Ferramentas,6,259.47,concluído
+PED-10690,2026-06-03,Cliente_83,São Paulo,Esportes,3,189.33,concluído
+PED-10691,2026-09-03,Cliente_81,São Paulo,Esportes,4,253.19,concluído
+PED-10692,2026-06-13,Cliente_75,Curitiba,Ferramentas,7,95.73,concluído
+PED-10693,2026-10-22,Cliente_201,Rio de Janeiro,Esportes,8,301.9,concluído
+PED-10694,2026-05-24,Cliente_210,Rio de Janeiro,Móveis,4,833.33,cancelado
+PED-10695,2026-02-28,Cliente_239,São Paulo,Vestuário,6,320.77,concluído
+PED-10696,2026-10-09,Cliente_7,São Paulo,Ferramentas,3,238.62,concluído
+PED-10697,2026-04-18,Cliente_113,Campinas,Ferramentas,8,382.61,concluído
+PED-10698,2026-07-29,Cliente_173,Rio de Janeiro,Ferramentas,2,325.14,concluído
+PED-10699,2026-05-04,Cliente_65,São Paulo,Eletrônicos,2,3396.38,concluído
+PED-10700,2026-07-13,Cliente_19,São Paulo,Vestuário,7,273.71,concluído
+PED-10701,2026-10-26,Cliente_103,Curitiba,Eletrônicos,2,3135.15,cancelado
+PED-10702,2026-10-06,Cliente_10,Belo Horizonte,Eletrônicos,2,3578.71,concluído
+PED-10703,2026-10-02,Cliente_153,Rio de Janeiro,Vestuário,6,322.57,concluído
+PED-10704,2026-02-25,Cliente_197,Campinas,Esportes,2,266.13,concluído
+PED-10705,2026-03-27,Cliente_166,Rio de Janeiro,Ferramentas,6,121.85,concluído
+PED-10706,2026-06-19,Cliente_248,São Paulo,Móveis,4,1647.89,concluído
+PED-10707,2026-01-06,Cliente_26,Curitiba,Ferramentas,2,324.61,concluído
+PED-10708,2026-08-17,Cliente_96,Campinas,Vestuário,4,125.73,cancelado
+PED-10709,2026-06-26,Cliente_7,São Paulo,Móveis,2,1160.5,cancelado
+PED-10710,2026-08-01,Cliente_236,Porto Alegre,Ferramentas,5,208.63,concluído
+PED-10711,2026-03-14,Cliente_90,São Paulo,Ferramentas,2,385.84,concluído
+PED-10712,2026-04-16,Cliente_134,Belo Horizonte,Móveis,4,986.16,cancelado
+PED-10713,2026-02-19,Cliente_113,Curitiba,Esportes,8,208.68,concluído
+PED-10714,2026-06-13,Cliente_18,São Paulo,Esportes,8,297.14,concluído
+PED-10715,2026-01-12,Cliente_218,São Paulo,Esportes,2,141.1,concluído
+PED-10716,2026-03-26,Cliente_239,Campinas,Esportes,2,156.94,concluído
+PED-10717,2026-09-22,Cliente_45,São Paulo,Vestuário,4,394.04,concluído
+PED-10718,2026-10-14,Cliente_110,Curitiba,Móveis,3,1514.2,concluído
+PED-10719,2026-07-27,Cliente_162,Curitiba,Móveis,2,2408.62,cancelado
+PED-10720,2026-07-22,Cliente_8,São Paulo,Eletrônicos,2,1759.15,concluído
+PED-10721,2026-08-19,Cliente_152,São Paulo,Esportes,4,302.83,concluído
+PED-10722,2026-04-20,Cliente_53,Rio de Janeiro,Ferramentas,1,188.93,concluído
+PED-10723,2026-10-23,Cliente_27,São Paulo,Móveis,1,912.36,cancelado
+PED-10724,2026-07-07,Cliente_84,Rio de Janeiro,Ferramentas,3,325.82,concluído
+PED-10725,2026-05-15,Cliente_172,São Paulo,Eletrônicos,1,1824.79,concluído
+PED-10726,2026-11-02,Cliente_100,Campinas,Ferramentas,6,349.18,concluído
+PED-10727,2026-06-28,Cliente_91,São Paulo,Eletrônicos,1,3978.8,concluído
+PED-10728,2026-06-02,Cliente_236,Campinas,Esportes,3,342.84,concluído
+PED-10729,2026-03-10,Cliente_81,São Paulo,Móveis,1,1651.87,cancelado
+PED-10730,2026-03-01,Cliente_47,São Paulo,Eletrônicos,2,1412.88,cancelado
+PED-10731,2026-09-19,Cliente_100,Rio de Janeiro,Eletrônicos,1,2741.19,pendente
+PED-10732,2026-10-22,Cliente_99,São Paulo,Esportes,3,184.75,concluído
+PED-10733,2026-11-22,Cliente_138,São Paulo,Eletrônicos,2,2999.8,concluído
+PED-10734,2026-10-12,Cliente_43,São Paulo,Móveis,2,1825.55,concluído
+PED-10735,2026-04-06,Cliente_81,São Paulo,Móveis,2,1377.21,cancelado
+PED-10736,2026-07-03,Cliente_244,São Paulo,Móveis,1,2152.37,concluído
+PED-10737,2026-04-10,Cliente_209,São Paulo,Ferramentas,3,33.55,concluído
+PED-10738,2026-07-29,Cliente_176,São Paulo,Esportes,8,172.06,concluído
+PED-10739,2026-09-08,Cliente_43,Campinas,Vestuário,8,211.94,concluído
+PED-10740,2026-04-23,Cliente_75,São Paulo,Ferramentas,1,60.59,concluído
+PED-10741,2026-10-03,Cliente_74,São Paulo,Esportes,4,42.1,concluído
+PED-10742,2026-10-17,Cliente_191,São Paulo,Ferramentas,8,92.24,concluído
+PED-10743,2026-10-09,Cliente_131,São Paulo,Vestuário,8,315.84,cancelado
+PED-10744,2026-05-18,Cliente_199,Rio de Janeiro,Esportes,2,71.89,concluído
+PED-10745,2026-10-05,Cliente_211,São Paulo,Eletrônicos,2,3624.15,concluído
+PED-10746,2026-10-07,Cliente_56,São Paulo,Esportes,8,310.01,concluído
+PED-10747,2026-05-07,Cliente_77,Rio de Janeiro,Esportes,2,396.22,concluído
+PED-10748,2026-08-19,Cliente_68,São Paulo,Vestuário,1,353.68,concluído
+PED-10749,2026-08-13,Cliente_222,Campinas,Esportes,2,158.97,concluído
+PED-10750,2026-04-18,Cliente_208,São Paulo,Esportes,4,397.76,concluído
+PED-10751,2026-11-09,Cliente_162,São Paulo,Eletrônicos,2,4635.59,concluído
+PED-10752,2026-04-16,Cliente_209,Campinas,Móveis,2,1241.97,concluído
+PED-10753,2026-10-19,Cliente_90,Belo Horizonte,Esportes,1,106.57,concluído
+PED-10754,2026-06-15,Cliente_181,Belo Horizonte,Ferramentas,3,226.94,cancelado
+PED-10755,2026-09-21,Cliente_231,São Paulo,Eletrônicos,2,2321.7,concluído
+PED-10756,2026-03-11,Cliente_247,São Paulo,Ferramentas,2,281.34,concluído
+PED-10757,2026-01-31,Cliente_71,Porto Alegre,Ferramentas,7,307.53,concluído
+PED-10758,2026-03-09,Cliente_64,Belo Horizonte,Vestuário,3,350.81,concluído
+PED-10759,2026-05-07,Cliente_195,Porto Alegre,Eletrônicos,2,1560.47,concluído
+PED-10760,2026-09-08,Cliente_37,Campinas,Ferramentas,7,342.12,concluído
+PED-10761,2026-11-18,Cliente_107,São Paulo,Esportes,5,243.65,concluído
+PED-10762,2026-11-21,Cliente_204,São Paulo,Vestuário,2,168.81,concluído
+PED-10763,2026-07-26,Cliente_132,São Paulo,Esportes,2,355.65,concluído
+PED-10764,2026-08-21,Cliente_244,Porto Alegre,Ferramentas,6,307.43,pendente
+PED-10765,2026-02-17,Cliente_188,São Paulo,Eletrônicos,1,3337.83,concluído
+PED-10766,2026-02-02,Cliente_204,Rio de Janeiro,Vestuário,6,389.7,concluído
+PED-10767,2026-08-08,Cliente_212,Campinas,Móveis,2,1475.73,cancelado
+PED-10768,2026-06-15,Cliente_213,Rio de Janeiro,Ferramentas,5,108.39,concluído
+PED-10769,2026-10-17,Cliente_219,Porto Alegre,Esportes,3,134.93,concluído
+PED-10770,2026-01-25,Cliente_12,São Paulo,Ferramentas,6,209.58,concluído
+PED-10771,2026-01-09,Cliente_32,São Paulo,Eletrônicos,2,1317.79,concluído
+PED-10772,2026-08-14,Cliente_117,São Paulo,Eletrônicos,1,5633.05,concluído
+PED-10773,2026-04-14,Cliente_177,São Paulo,Vestuário,7,30.25,concluído
+PED-10774,2026-03-23,Cliente_224,Belo Horizonte,Eletrônicos,2,5528.92,concluído
+PED-10775,2026-02-17,Cliente_168,Rio de Janeiro,Vestuário,5,375.11,concluído
+PED-10776,2026-07-10,Cliente_171,São Paulo,Móveis,1,1092.96,concluído
+PED-10777,2026-01-27,Cliente_102,Belo Horizonte,Esportes,3,364.41,concluído
+PED-10778,2026-08-08,Cliente_168,São Paulo,Esportes,4,261.47,concluído
+PED-10779,2026-01-01,Cliente_55,Porto Alegre,Vestuário,2,63.74,concluído
+PED-10780,2026-10-31,Cliente_58,Rio de Janeiro,Ferramentas,3,206.42,concluído
+PED-10781,2026-01-05,Cliente_3,São Paulo,Esportes,8,222.19,cancelado
+PED-10782,2026-08-05,Cliente_178,Porto Alegre,Eletrônicos,1,4417.1,concluído
+PED-10783,2026-04-28,Cliente_99,Belo Horizonte,Móveis,1,590.79,cancelado
+PED-10784,2026-02-22,Cliente_81,Porto Alegre,Vestuário,2,63.05,concluído
+PED-10785,2026-03-12,Cliente_98,São Paulo,Esportes,5,166.0,concluído
+PED-10786,2026-11-25,Cliente_174,São Paulo,Vestuário,3,316.18,pendente
+PED-10787,2026-11-09,Cliente_167,São Paulo,Esportes,1,82.86,concluído
+PED-10788,2026-04-20,Cliente_161,São Paulo,Móveis,3,661.06,pendente
+PED-10789,2026-11-12,Cliente_176,São Paulo,Eletrônicos,2,4691.0,concluído
+PED-10790,2026-02-14,Cliente_230,Campinas,Móveis,2,1273.24,cancelado
+PED-10791,2026-10-29,Cliente_187,Porto Alegre,Ferramentas,2,67.17,pendente
+PED-10792,2026-06-11,Cliente_203,Curitiba,Vestuário,7,172.09,concluído
+PED-10793,2026-11-27,Cliente_22,Rio de Janeiro,Vestuário,5,81.74,concluído
+PED-10794,2026-01-14,Cliente_218,São Paulo,Ferramentas,5,121.82,concluído
+PED-10795,2026-04-16,Cliente_133,São Paulo,Eletrônicos,2,5204.76,concluído
+PED-10796,2026-07-20,Cliente_76,Rio de Janeiro,Eletrônicos,1,3956.02,concluído
+PED-10797,2026-09-11,Cliente_99,São Paulo,Eletrônicos,1,4160.08,concluído
+PED-10798,2026-11-23,Cliente_153,Curitiba,Esportes,8,71.72,concluído
+PED-10799,2026-07-04,Cliente_240,Porto Alegre,Móveis,1,456.23,cancelado
+PED-10800,2026-10-19,Cliente_108,Rio de Janeiro,Eletrônicos,2,2445.66,pendente
+PED-10801,2026-08-30,Cliente_245,Belo Horizonte,Ferramentas,3,165.2,concluído
+PED-10802,2026-01-09,Cliente_151,São Paulo,Esportes,2,395.33,concluído
+PED-10803,2026-04-21,Cliente_11,Campinas,Móveis,3,448.57,cancelado
+PED-10804,2026-09-17,Cliente_74,Belo Horizonte,Esportes,7,371.35,concluído
+PED-10805,2026-08-05,Cliente_180,Rio de Janeiro,Ferramentas,7,262.57,concluído
+PED-10806,2026-05-23,Cliente_22,Campinas,Esportes,3,178.84,concluído
+PED-10807,2026-03-21,Cliente_138,São Paulo,Eletrônicos,1,2411.52,concluído
+PED-10808,2026-06-08,Cliente_179,Belo Horizonte,Esportes,2,150.9,cancelado
+PED-10809,2026-01-30,Cliente_63,Rio de Janeiro,Eletrônicos,1,3074.93,concluído
+PED-10810,2026-03-01,Cliente_117,São Paulo,Ferramentas,7,61.9,concluído
+PED-10811,2026-06-08,Cliente_171,Rio de Janeiro,Ferramentas,1,256.55,concluído
+PED-10812,2026-03-03,Cliente_4,Belo Horizonte,Esportes,3,304.43,concluído
+PED-10813,2026-03-25,Cliente_128,São Paulo,Ferramentas,1,291.92,pendente
+PED-10814,2026-03-27,Cliente_96,São Paulo,Móveis,3,2396.64,concluído
+PED-10815,2026-03-02,Cliente_198,Campinas,Eletrônicos,2,1460.04,concluído
+PED-10816,2026-08-08,Cliente_70,São Paulo,Móveis,3,2279.77,cancelado
+PED-10817,2026-10-23,Cliente_161,São Paulo,Móveis,3,1452.48,pendente
+PED-10818,2026-09-19,Cliente_93,São Paulo,Eletrônicos,2,1200.76,concluído
+PED-10819,2026-07-08,Cliente_41,Rio de Janeiro,Ferramentas,3,50.51,concluído
+PED-10820,2026-10-21,Cliente_173,Rio de Janeiro,Ferramentas,2,124.39,concluído
+PED-10821,2026-09-18,Cliente_1,São Paulo,Vestuário,4,297.43,concluído
+PED-10822,2026-05-06,Cliente_12,São Paulo,Ferramentas,1,46.29,concluído
+PED-10823,2026-03-18,Cliente_46,São Paulo,Móveis,4,1337.88,concluído
+PED-10824,2026-10-11,Cliente_206,Campinas,Eletrônicos,1,5642.03,concluído
+PED-10825,2026-04-25,Cliente_83,São Paulo,Eletrônicos,2,5552.53,concluído
+PED-10826,2026-05-19,Cliente_212,São Paulo,Eletrônicos,2,2090.97,concluído
+PED-10827,2026-03-03,Cliente_129,Belo Horizonte,Vestuário,6,58.82,concluído
+PED-10828,2026-04-02,Cliente_58,Campinas,Ferramentas,1,279.13,concluído
+PED-10829,2026-07-25,Cliente_18,São Paulo,Esportes,1,327.61,concluído
+PED-10830,2026-06-09,Cliente_84,Belo Horizonte,Ferramentas,5,354.49,concluído
+PED-10831,2026-01-05,Cliente_95,São Paulo,Ferramentas,8,61.96,concluído
+PED-10832,2026-11-15,Cliente_63,Campinas,Ferramentas,5,104.25,concluído
+PED-10833,2026-04-11,Cliente_188,Belo Horizonte,Ferramentas,8,201.65,concluído
+PED-10834,2026-03-19,Cliente_2,São Paulo,Esportes,4,363.16,concluído
+PED-10835,2026-04-30,Cliente_139,São Paulo,Eletrônicos,1,5648.47,concluído
+PED-10836,2026-06-21,Cliente_1,São Paulo,Vestuário,1,158.18,concluído
+PED-10837,2026-06-07,Cliente_27,Rio de Janeiro,Eletrônicos,2,4746.43,concluído
+PED-10838,2026-08-03,Cliente_126,São Paulo,Eletrônicos,1,1867.01,cancelado
+PED-10839,2026-05-24,Cliente_24,Belo Horizonte,Eletrônicos,1,5798.16,concluído
+PED-10840,2026-09-24,Cliente_106,Porto Alegre,Ferramentas,4,46.24,concluído
+PED-10841,2026-08-23,Cliente_250,Belo Horizonte,Eletrônicos,2,4444.4,concluído
+PED-10842,2026-09-16,Cliente_35,Porto Alegre,Esportes,2,306.72,concluído
+PED-10843,2026-02-08,Cliente_152,Curitiba,Ferramentas,7,265.77,concluído
+PED-10844,2026-03-08,Cliente_61,Rio de Janeiro,Móveis,4,1549.21,concluído
+PED-10845,2026-07-21,Cliente_180,São Paulo,Vestuário,6,137.92,concluído
+PED-10846,2026-06-12,Cliente_116,São Paulo,Móveis,3,2130.18,cancelado
+PED-10847,2026-04-14,Cliente_35,Porto Alegre,Eletrônicos,1,2214.17,concluído
+PED-10848,2026-03-21,Cliente_28,Belo Horizonte,Esportes,2,318.58,concluído
+PED-10849,2026-06-10,Cliente_105,Porto Alegre,Esportes,8,90.82,concluído
+PED-10850,2026-04-17,Cliente_116,São Paulo,Ferramentas,6,74.67,concluído
+PED-10851,2026-03-03,Cliente_24,Rio de Janeiro,Esportes,5,144.07,concluído
+PED-10852,2026-11-05,Cliente_11,Porto Alegre,Esportes,5,88.32,concluído
+PED-10853,2026-03-17,Cliente_24,Curitiba,Vestuário,6,109.56,concluído
+PED-10854,2026-07-22,Cliente_132,São Paulo,Eletrônicos,2,4498.02,concluído
+PED-10855,2026-05-14,Cliente_210,São Paulo,Móveis,3,407.69,concluído
+PED-10856,2026-07-27,Cliente_219,São Paulo,Esportes,1,396.55,concluído
+PED-10857,2026-02-18,Cliente_119,Curitiba,Esportes,4,197.31,concluído
+PED-10858,2026-03-04,Cliente_4,Rio de Janeiro,Móveis,2,524.2,cancelado
+PED-10859,2026-03-08,Cliente_51,São Paulo,Vestuário,4,52.82,concluído
+PED-10860,2026-11-19,Cliente_241,São Paulo,Ferramentas,6,334.76,concluído
+PED-10861,2026-02-08,Cliente_6,Porto Alegre,Esportes,5,268.53,concluído
+PED-10862,2026-11-27,Cliente_114,São Paulo,Eletrônicos,1,5985.24,concluído
+PED-10863,2026-06-19,Cliente_32,Rio de Janeiro,Vestuário,2,329.44,concluído
+PED-10864,2026-01-26,Cliente_44,São Paulo,Móveis,4,393.93,concluído
+PED-10865,2026-07-22,Cliente_128,São Paulo,Vestuário,7,371.93,concluído
+PED-10866,2026-03-30,Cliente_91,São Paulo,Vestuário,7,40.91,concluído
+PED-10867,2026-05-21,Cliente_72,Rio de Janeiro,Móveis,2,772.38,cancelado
+PED-10868,2026-01-18,Cliente_158,São Paulo,Móveis,2,1281.23,concluído
+PED-10869,2026-06-01,Cliente_128,Rio de Janeiro,Esportes,4,259.1,pendente
+PED-10870,2026-02-01,Cliente_23,Rio de Janeiro,Ferramentas,8,182.44,concluído
+PED-10871,2026-08-03,Cliente_52,Campinas,Esportes,3,133.52,concluído
+PED-10872,2026-11-19,Cliente_206,Campinas,Esportes,4,267.78,pendente
+PED-10873,2026-07-15,Cliente_201,Rio de Janeiro,Ferramentas,1,231.15,concluído
+PED-10874,2026-10-06,Cliente_201,Curitiba,Vestuário,8,293.95,concluído
+PED-10875,2026-07-18,Cliente_70,São Paulo,Móveis,3,1366.29,concluído
+PED-10876,2026-11-02,Cliente_57,São Paulo,Eletrônicos,2,1735.04,concluído
+PED-10877,2026-01-30,Cliente_208,Belo Horizonte,Ferramentas,5,40.84,pendente
+PED-10878,2026-10-27,Cliente_60,Rio de Janeiro,Vestuário,6,396.87,concluído
+PED-10879,2026-05-07,Cliente_169,Rio de Janeiro,Ferramentas,2,390.37,concluído
+PED-10880,2026-04-23,Cliente_148,Belo Horizonte,Vestuário,1,119.23,concluído
+PED-10881,2026-07-01,Cliente_240,Curitiba,Vestuário,7,343.21,concluído
+PED-10882,2026-04-01,Cliente_61,Belo Horizonte,Eletrônicos,1,5163.96,concluído
+PED-10883,2026-10-30,Cliente_8,Rio de Janeiro,Ferramentas,6,249.23,concluído
+PED-10884,2026-10-18,Cliente_145,Porto Alegre,Ferramentas,6,290.28,concluído
+PED-10885,2026-09-10,Cliente_139,São Paulo,Vestuário,4,82.58,cancelado
+PED-10886,2026-01-20,Cliente_24,Curitiba,Ferramentas,8,144.35,concluído
+PED-10887,2026-01-11,Cliente_135,São Paulo,Vestuário,4,50.78,concluído
+PED-10888,2026-11-11,Cliente_52,São Paulo,Esportes,6,206.86,concluído
+PED-10889,2026-04-01,Cliente_236,São Paulo,Eletrônicos,2,4993.52,cancelado
+PED-10890,2026-01-31,Cliente_6,Rio de Janeiro,Esportes,6,326.9,concluído
+PED-10891,2026-02-26,Cliente_217,Porto Alegre,Móveis,2,624.97,concluído
+PED-10892,2026-02-07,Cliente_96,Rio de Janeiro,Vestuário,6,224.73,concluído
+PED-10893,2026-10-28,Cliente_26,Rio de Janeiro,Móveis,4,1849.98,cancelado
+PED-10894,2026-03-11,Cliente_250,Porto Alegre,Vestuário,6,154.53,concluído
+PED-10895,2026-11-24,Cliente_246,Porto Alegre,Esportes,7,88.28,concluído
+PED-10896,2026-03-31,Cliente_182,Rio de Janeiro,Eletrônicos,2,3333.44,concluído
+PED-10897,2026-04-25,Cliente_171,São Paulo,Eletrônicos,2,5837.46,concluído
+PED-10898,2026-07-13,Cliente_79,Porto Alegre,Vestuário,3,247.91,concluído
+PED-10899,2026-03-07,Cliente_46,São Paulo,Ferramentas,5,301.58,concluído
+PED-10900,2026-10-18,Cliente_9,Belo Horizonte,Móveis,4,1903.43,concluído
+PED-10901,2026-11-10,Cliente_57,Belo Horizonte,Vestuário,6,97.37,concluído
+PED-10902,2026-09-12,Cliente_37,Rio de Janeiro,Ferramentas,2,266.67,concluído
+PED-10903,2026-05-02,Cliente_89,Porto Alegre,Vestuário,2,152.53,concluído
+PED-10904,2026-11-22,Cliente_227,Campinas,Vestuário,3,393.48,pendente
+PED-10905,2026-08-17,Cliente_3,Belo Horizonte,Eletrônicos,2,5808.01,concluído
+PED-10906,2026-02-04,Cliente_90,São Paulo,Vestuário,4,128.13,concluído
+PED-10907,2026-01-01,Cliente_13,Porto Alegre,Eletrônicos,1,2134.62,concluído
+PED-10908,2026-03-27,Cliente_227,São Paulo,Ferramentas,7,172.8,concluído
+PED-10909,2026-06-29,Cliente_140,Porto Alegre,Eletrônicos,2,2952.9,concluído
+PED-10910,2026-10-23,Cliente_167,Belo Horizonte,Eletrônicos,2,2751.81,concluído
+PED-10911,2026-03-25,Cliente_116,São Paulo,Esportes,4,310.55,concluído
+PED-10912,2026-05-31,Cliente_6,São Paulo,Vestuário,1,57.27,concluído
+PED-10913,2026-02-07,Cliente_88,Belo Horizonte,Ferramentas,2,147.93,cancelado
+PED-10914,2026-03-24,Cliente_188,São Paulo,Ferramentas,7,92.94,concluído
+PED-10915,2026-06-23,Cliente_153,Porto Alegre,Móveis,1,465.01,concluído
+PED-10916,2026-01-16,Cliente_111,Rio de Janeiro,Móveis,4,2467.61,concluído
+PED-10917,2026-11-07,Cliente_228,Rio de Janeiro,Móveis,2,2373.37,concluído
+PED-10918,2026-02-21,Cliente_85,São Paulo,Esportes,1,190.65,concluído
+PED-10919,2026-07-29,Cliente_179,São Paulo,Vestuário,4,106.05,concluído
+PED-10920,2026-05-25,Cliente_77,Rio de Janeiro,Eletrônicos,2,3681.38,concluído
+PED-10921,2026-07-21,Cliente_147,São Paulo,Ferramentas,1,117.89,concluído
+PED-10922,2026-03-20,Cliente_14,São Paulo,Eletrônicos,2,3658.25,concluído
+PED-10923,2026-02-14,Cliente_76,São Paulo,Móveis,4,1093.82,cancelado
+PED-10924,2026-04-13,Cliente_25,Belo Horizonte,Esportes,8,334.84,concluído
+PED-10925,2026-11-23,Cliente_75,Rio de Janeiro,Móveis,2,356.62,cancelado
+PED-10926,2026-03-01,Cliente_79,Porto Alegre,Esportes,8,391.51,concluído
+PED-10927,2026-09-08,Cliente_230,Curitiba,Móveis,4,2026.73,concluído
+PED-10928,2026-11-25,Cliente_140,São Paulo,Móveis,1,1754.29,concluído
+PED-10929,2026-07-15,Cliente_95,Belo Horizonte,Vestuário,6,173.39,concluído
+PED-10930,2026-05-15,Cliente_113,São Paulo,Eletrônicos,1,1770.23,concluído
+PED-10931,2026-05-18,Cliente_145,Rio de Janeiro,Móveis,2,1323.13,cancelado
+PED-10932,2026-02-13,Cliente_172,Rio de Janeiro,Eletrônicos,1,1120.52,concluído
+PED-10933,2026-10-29,Cliente_59,Porto Alegre,Eletrônicos,2,2587.72,concluído
+PED-10934,2026-09-25,Cliente_108,Campinas,Ferramentas,7,234.83,cancelado
+PED-10935,2026-10-21,Cliente_226,Porto Alegre,Vestuário,8,387.28,concluído
+PED-10936,2026-02-10,Cliente_102,Porto Alegre,Esportes,5,117.19,concluído
+PED-10937,2026-09-15,Cliente_147,Campinas,Vestuário,1,364.03,concluído
+PED-10938,2026-03-03,Cliente_244,Campinas,Esportes,3,363.17,concluído
+PED-10939,2026-03-27,Cliente_249,São Paulo,Móveis,2,1965.82,cancelado
+PED-10940,2026-03-06,Cliente_11,Campinas,Eletrônicos,1,1901.83,concluído
+PED-10941,2026-04-14,Cliente_211,São Paulo,Ferramentas,7,186.65,concluído
+PED-10942,2026-06-13,Cliente_234,Belo Horizonte,Eletrônicos,2,4061.58,concluído
+PED-10943,2026-02-14,Cliente_100,São Paulo,Esportes,2,299.03,concluído
+PED-10944,2026-05-22,Cliente_134,São Paulo,Ferramentas,6,235.85,concluído
+PED-10945,2026-11-16,Cliente_151,Belo Horizonte,Ferramentas,1,199.52,concluído
+PED-10946,2026-02-27,Cliente_107,São Paulo,Esportes,7,223.35,concluído
+PED-10947,2026-02-24,Cliente_145,Rio de Janeiro,Móveis,1,629.21,cancelado
+PED-10948,2026-10-02,Cliente_226,Curitiba,Eletrônicos,2,4853.63,concluído
+PED-10949,2026-05-16,Cliente_99,Curitiba,Móveis,4,1056.51,cancelado
+PED-10950,2026-01-20,Cliente_45,São Paulo,Móveis,4,1740.53,concluído
+PED-10951,2026-11-13,Cliente_156,Belo Horizonte,Vestuário,3,131.9,concluído
+PED-10952,2026-01-20,Cliente_102,Belo Horizonte,Esportes,7,281.9,concluído
+PED-10953,2026-05-02,Cliente_13,Belo Horizonte,Móveis,3,2257.06,concluído
+PED-10954,2026-07-10,Cliente_6,Campinas,Esportes,5,305.93,concluído
+PED-10955,2026-06-09,Cliente_72,São Paulo,Esportes,5,155.01,concluído
+PED-10956,2026-04-27,Cliente_35,Belo Horizonte,Eletrônicos,1,5182.8,cancelado
+PED-10957,2026-06-14,Cliente_69,São Paulo,Vestuário,8,141.18,concluído
+PED-10958,2026-04-07,Cliente_114,Porto Alegre,Móveis,1,1903.36,concluído
+PED-10959,2026-09-06,Cliente_195,São Paulo,Móveis,4,765.06,concluído
+PED-10960,2026-01-29,Cliente_132,São Paulo,Móveis,3,1436.3,concluído
+PED-10961,2026-06-09,Cliente_182,São Paulo,Móveis,1,2041.28,concluído
+PED-10962,2026-09-26,Cliente_226,Curitiba,Eletrônicos,1,3435.34,cancelado
+PED-10963,2026-04-09,Cliente_225,São Paulo,Ferramentas,3,240.41,concluído
+PED-10964,2026-05-08,Cliente_9,Campinas,Esportes,1,338.18,concluído
+PED-10965,2026-04-12,Cliente_71,Curitiba,Esportes,6,198.89,concluído
+PED-10966,2026-09-16,Cliente_102,São Paulo,Esportes,8,166.29,pendente
+PED-10967,2026-01-16,Cliente_62,São Paulo,Ferramentas,2,265.1,concluído
+PED-10968,2026-04-01,Cliente_246,São Paulo,Eletrônicos,2,2736.83,concluído
+PED-10969,2026-06-26,Cliente_42,São Paulo,Ferramentas,6,352.08,concluído
+PED-10970,2026-02-16,Cliente_73,Curitiba,Esportes,5,339.93,concluído
+PED-10971,2026-03-25,Cliente_219,Rio de Janeiro,Vestuário,1,40.16,concluído
+PED-10972,2026-04-24,Cliente_166,Rio de Janeiro,Esportes,4,241.74,concluído
+PED-10973,2026-05-18,Cliente_167,São Paulo,Vestuário,4,113.29,concluído
+PED-10974,2026-01-05,Cliente_122,Belo Horizonte,Ferramentas,1,181.52,concluído
+PED-10975,2026-11-04,Cliente_206,São Paulo,Vestuário,3,367.26,concluído
+PED-10976,2026-11-08,Cliente_207,Campinas,Móveis,3,318.62,concluído
+PED-10977,2026-08-05,Cliente_230,Curitiba,Esportes,5,378.91,concluído
+PED-10978,2026-08-24,Cliente_65,Campinas,Eletrônicos,2,2757.67,concluído
+PED-10979,2026-09-24,Cliente_212,Rio de Janeiro,Esportes,5,110.74,concluído
+PED-10980,2026-01-04,Cliente_131,Campinas,Esportes,2,260.73,concluído
+PED-10981,2026-10-15,Cliente_166,São Paulo,Móveis,3,2498.74,concluído
+PED-10982,2026-06-02,Cliente_176,São Paulo,Móveis,3,1606.3,cancelado
+PED-10983,2026-06-22,Cliente_71,São Paulo,Vestuário,2,70.0,concluído
+PED-10984,2026-05-14,Cliente_168,Porto Alegre,Esportes,5,267.02,concluído
+PED-10985,2026-04-07,Cliente_39,Belo Horizonte,Vestuário,5,293.1,concluído
+PED-10986,2026-01-30,Cliente_207,Campinas,Esportes,4,221.4,concluído
+PED-10987,2026-06-13,Cliente_175,São Paulo,Móveis,4,2186.09,cancelado
+PED-10988,2026-09-12,Cliente_76,Campinas,Esportes,1,81.77,concluído
+PED-10989,2026-07-27,Cliente_100,São Paulo,Eletrônicos,2,2149.02,pendente
+PED-10990,2026-06-25,Cliente_186,Rio de Janeiro,Ferramentas,4,302.59,cancelado
+PED-10991,2026-07-03,Cliente_130,Campinas,Móveis,4,1869.41,concluído
+PED-10992,2026-10-13,Cliente_47,São Paulo,Vestuário,3,141.07,concluído
+PED-10993,2026-03-07,Cliente_190,São Paulo,Esportes,8,138.7,concluído
+PED-10994,2026-06-21,Cliente_168,Belo Horizonte,Eletrônicos,1,2144.99,pendente
+PED-10995,2026-04-25,Cliente_191,Curitiba,Vestuário,6,63.04,concluído
+PED-10996,2026-06-19,Cliente_96,Belo Horizonte,Eletrônicos,2,5331.45,concluído
+PED-10997,2026-08-26,Cliente_218,Campinas,Vestuário,5,126.41,pendente
+PED-10998,2026-11-21,Cliente_150,Rio de Janeiro,Vestuário,1,73.58,concluído
+PED-10999,2026-08-30,Cliente_228,Campinas,Móveis,1,1576.69,pendente
+PED-11000,2026-07-15,Cliente_136,São Paulo,Vestuário,2,101.98,concluído
+PED-11001,2026-03-19,Cliente_36,São Paulo,Eletrônicos,1,2351.45,pendente
+PED-11002,2026-07-29,Cliente_146,Rio de Janeiro,Móveis,3,2483.17,pendente
+PED-11003,2026-03-15,Cliente_81,São Paulo,Móveis,4,2264.26,concluído
+PED-11004,2026-02-11,Cliente_125,Curitiba,Eletrônicos,1,5284.45,concluído
+PED-11005,2026-06-10,Cliente_163,Curitiba,Esportes,3,153.07,concluído
+PED-11006,2026-05-21,Cliente_54,Curitiba,Esportes,8,51.47,concluído
+PED-11007,2026-10-23,Cliente_196,São Paulo,Ferramentas,3,311.64,concluído
+PED-11008,2026-03-08,Cliente_158,Rio de Janeiro,Vestuário,2,88.62,concluído
+PED-11009,2026-07-26,Cliente_110,Porto Alegre,Móveis,4,1254.17,concluído
+PED-11010,2026-01-03,Cliente_10,Porto Alegre,Ferramentas,7,387.17,concluído
+PED-11011,2026-01-08,Cliente_229,São Paulo,Esportes,6,227.5,concluído
+PED-11012,2026-01-10,Cliente_174,São Paulo,Eletrônicos,1,2475.51,concluído
+PED-11013,2026-04-26,Cliente_178,Campinas,Móveis,2,309.07,pendente
+PED-11014,2026-03-08,Cliente_27,São Paulo,Ferramentas,5,354.48,concluído
+PED-11015,2026-03-27,Cliente_17,Belo Horizonte,Esportes,5,171.91,concluído
+PED-11016,2026-05-29,Cliente_117,Campinas,Eletrônicos,2,5083.99,concluído
+PED-11017,2026-08-11,Cliente_228,São Paulo,Eletrônicos,2,4584.73,concluído
+PED-11018,2026-06-25,Cliente_231,São Paulo,Esportes,3,284.11,concluído
+PED-11019,2026-03-26,Cliente_243,São Paulo,Eletrônicos,1,3348.93,concluído
+PED-11020,2026-01-10,Cliente_59,São Paulo,Ferramentas,7,365.55,pendente
+PED-11021,2026-04-19,Cliente_188,São Paulo,Vestuário,3,113.0,concluído
+PED-11022,2026-03-05,Cliente_94,São Paulo,Móveis,2,348.21,pendente
+PED-11023,2026-07-12,Cliente_225,São Paulo,Ferramentas,1,293.11,concluído
+PED-11024,2026-11-01,Cliente_13,São Paulo,Vestuário,1,266.92,concluído
+PED-11025,2026-01-25,Cliente_177,São Paulo,Esportes,1,274.93,concluído
+PED-11026,2026-07-14,Cliente_32,São Paulo,Esportes,8,72.84,concluído
+PED-11027,2026-03-20,Cliente_53,Campinas,Móveis,4,1504.02,cancelado
+PED-11028,2026-06-04,Cliente_108,São Paulo,Esportes,1,287.22,concluído
+PED-11029,2026-11-15,Cliente_156,Porto Alegre,Móveis,3,1755.66,concluído
+PED-11030,2026-02-23,Cliente_131,Rio de Janeiro,Eletrônicos,2,4443.78,concluído
+PED-11031,2026-05-25,Cliente_30,Rio de Janeiro,Esportes,2,295.94,concluído
+PED-11032,2026-04-12,Cliente_156,São Paulo,Móveis,4,2026.47,cancelado
+PED-11033,2026-09-25,Cliente_250,Rio de Janeiro,Vestuário,5,103.91,concluído
+PED-11034,2026-06-01,Cliente_42,Porto Alegre,Ferramentas,7,104.62,concluído
+PED-11035,2026-04-17,Cliente_177,Curitiba,Móveis,4,386.69,cancelado
+PED-11036,2026-05-01,Cliente_1,Rio de Janeiro,Eletrônicos,2,5652.25,concluído
+PED-11037,2026-02-26,Cliente_214,São Paulo,Ferramentas,2,34.72,concluído
+PED-11038,2026-03-18,Cliente_244,São Paulo,Eletrônicos,2,3785.59,concluído
+PED-11039,2026-02-21,Cliente_232,São Paulo,Ferramentas,2,63.33,concluído
+PED-11040,2026-08-22,Cliente_76,São Paulo,Ferramentas,4,124.68,concluído
+PED-11041,2026-02-21,Cliente_209,São Paulo,Vestuário,1,127.73,concluído
+PED-11042,2026-05-29,Cliente_93,São Paulo,Esportes,1,94.64,concluído
+PED-11043,2026-08-07,Cliente_190,Belo Horizonte,Eletrônicos,2,4968.3,concluído
+PED-11044,2026-01-05,Cliente_219,São Paulo,Móveis,1,554.98,cancelado
+PED-11045,2026-06-18,Cliente_92,Porto Alegre,Vestuário,3,81.21,concluído
+PED-11046,2026-02-17,Cliente_96,São Paulo,Vestuário,5,360.98,pendente
+PED-11047,2026-02-28,Cliente_103,São Paulo,Ferramentas,3,331.54,concluído
+PED-11048,2026-05-20,Cliente_214,São Paulo,Vestuário,8,178.09,concluído
+PED-11049,2026-08-04,Cliente_167,Curitiba,Vestuário,8,172.71,concluído
+PED-11050,2026-02-27,Cliente_34,Rio de Janeiro,Eletrônicos,1,5407.84,pendente
+PED-11051,2026-03-23,Cliente_27,São Paulo,Eletrônicos,1,4420.08,concluído
+PED-11052,2026-10-19,Cliente_174,Campinas,Eletrônicos,2,2963.34,concluído
+PED-11053,2026-07-03,Cliente_157,Rio de Janeiro,Eletrônicos,2,3078.45,concluído
+PED-11054,2026-09-05,Cliente_236,Rio de Janeiro,Esportes,3,40.66,pendente
+PED-11055,2026-08-14,Cliente_12,São Paulo,Móveis,4,1373.87,cancelado
+PED-11056,2026-01-07,Cliente_181,Curitiba,Vestuário,6,53.43,concluído
+PED-11057,2026-06-23,Cliente_133,São Paulo,Móveis,2,2210.33,cancelado
+PED-11058,2026-08-10,Cliente_170,Porto Alegre,Eletrônicos,1,3520.14,concluído
+PED-11059,2026-06-27,Cliente_170,São Paulo,Eletrônicos,2,4578.59,concluído
+PED-11060,2026-03-18,Cliente_215,São Paulo,Esportes,7,280.23,concluído
+PED-11061,2026-01-06,Cliente_165,São Paulo,Eletrônicos,1,5097.48,concluído
+PED-11062,2026-09-11,Cliente_223,Rio de Janeiro,Eletrônicos,2,5658.73,concluído
+PED-11063,2026-06-14,Cliente_62,Rio de Janeiro,Esportes,8,91.2,concluído
+PED-11064,2026-01-26,Cliente_130,Curitiba,Móveis,3,1027.97,concluído
+PED-11065,2026-07-26,Cliente_210,Curitiba,Vestuário,7,112.4,concluído
+PED-11066,2026-08-16,Cliente_206,Curitiba,Móveis,4,817.0,concluído
+PED-11067,2026-09-13,Cliente_115,São Paulo,Vestuário,2,242.02,concluído
+PED-11068,2026-01-10,Cliente_27,Curitiba,Eletrônicos,2,2443.52,pendente
+PED-11069,2026-10-13,Cliente_141,São Paulo,Eletrônicos,1,2897.89,concluído
+PED-11070,2026-11-06,Cliente_247,Rio de Janeiro,Ferramentas,2,30.06,pendente
+PED-11071,2026-09-18,Cliente_144,Curitiba,Vestuário,5,259.05,concluído
+PED-11072,2026-06-24,Cliente_94,São Paulo,Móveis,4,755.07,cancelado
+PED-11073,2026-08-21,Cliente_85,Belo Horizonte,Esportes,4,335.37,concluído
+PED-11074,2026-07-06,Cliente_184,Porto Alegre,Vestuário,8,237.26,concluído
+PED-11075,2026-04-24,Cliente_1,São Paulo,Vestuário,2,197.44,concluído
+PED-11076,2026-10-08,Cliente_134,Campinas,Vestuário,5,156.3,concluído
+PED-11077,2026-01-24,Cliente_230,Belo Horizonte,Esportes,2,168.34,concluído
+PED-11078,2026-07-29,Cliente_28,São Paulo,Ferramentas,3,90.74,concluído
+PED-11079,2026-04-07,Cliente_31,São Paulo,Eletrônicos,1,2122.3,cancelado
+PED-11080,2026-04-21,Cliente_118,São Paulo,Esportes,7,374.18,concluído
+PED-11081,2026-06-23,Cliente_28,São Paulo,Vestuário,4,335.09,concluído
+PED-11082,2026-11-21,Cliente_215,São Paulo,Eletrônicos,1,4737.18,concluído
+PED-11083,2026-08-19,Cliente_118,São Paulo,Móveis,1,1778.71,concluído
+PED-11084,2026-09-13,Cliente_2,São Paulo,Eletrônicos,1,4223.97,concluído
+PED-11085,2026-10-11,Cliente_240,Belo Horizonte,Vestuário,1,226.23,concluído
+PED-11086,2026-09-18,Cliente_200,Belo Horizonte,Esportes,8,190.14,concluído
+PED-11087,2026-10-24,Cliente_45,São Paulo,Móveis,2,2326.56,cancelado
+PED-11088,2026-02-23,Cliente_100,São Paulo,Ferramentas,3,300.28,pendente
+PED-11089,2026-09-16,Cliente_226,São Paulo,Móveis,3,1746.55,concluído
+PED-11090,2026-05-21,Cliente_102,São Paulo,Ferramentas,4,172.33,concluído
+PED-11091,2026-08-20,Cliente_207,Rio de Janeiro,Eletrônicos,2,5810.69,concluído
+PED-11092,2026-11-05,Cliente_180,São Paulo,Vestuário,7,79.35,concluído
+PED-11093,2026-10-08,Cliente_221,Rio de Janeiro,Vestuário,5,357.98,concluído
+PED-11094,2026-04-13,Cliente_54,São Paulo,Móveis,2,990.6,cancelado
+PED-11095,2026-06-26,Cliente_236,São Paulo,Vestuário,5,260.94,concluído
+PED-11096,2026-09-15,Cliente_139,Campinas,Vestuário,3,278.78,concluído
+PED-11097,2026-03-01,Cliente_195,Belo Horizonte,Vestuário,6,286.9,concluído
+PED-11098,2026-10-26,Cliente_147,Belo Horizonte,Ferramentas,8,160.33,concluído
+PED-11099,2026-10-01,Cliente_74,Campinas,Vestuário,7,378.79,concluído
+PED-11100,2026-01-07,Cliente_134,Curitiba,Eletrônicos,2,5362.88,concluído
+PED-11101,2026-03-16,Cliente_14,São Paulo,Móveis,4,534.24,cancelado
+PED-11102,2026-05-17,Cliente_193,Campinas,Móveis,2,1774.56,concluído
+PED-11103,2026-05-09,Cliente_38,Belo Horizonte,Vestuário,5,320.65,concluído
+PED-11104,2026-04-15,Cliente_193,Porto Alegre,Vestuário,5,340.57,concluído
+PED-11105,2026-08-20,Cliente_27,Belo Horizonte,Eletrônicos,2,3614.09,concluído
+PED-11106,2026-10-15,Cliente_100,Belo Horizonte,Ferramentas,4,257.96,concluído
+PED-11107,2026-01-25,Cliente_238,São Paulo,Esportes,5,117.91,cancelado
+PED-11108,2026-06-10,Cliente_248,São Paulo,Eletrônicos,2,2784.23,concluído
+PED-11109,2026-05-09,Cliente_52,São Paulo,Eletrônicos,1,3671.05,concluído
+PED-11110,2026-04-26,Cliente_234,Curitiba,Móveis,4,1665.24,concluído
+PED-11111,2026-10-29,Cliente_140,Curitiba,Eletrônicos,2,4095.7,concluído
+PED-11112,2026-04-10,Cliente_76,São Paulo,Ferramentas,4,303.23,concluído
+PED-11113,2026-04-06,Cliente_247,São Paulo,Vestuário,2,196.06,concluído
+PED-11114,2026-07-13,Cliente_11,Belo Horizonte,Eletrônicos,1,1703.73,concluído
+PED-11115,2026-03-08,Cliente_42,Curitiba,Ferramentas,5,188.55,concluído
+PED-11116,2026-01-03,Cliente_85,São Paulo,Esportes,5,246.07,concluído
+PED-11117,2026-01-21,Cliente_40,São Paulo,Eletrônicos,1,3224.92,concluído
+PED-11118,2026-11-17,Cliente_158,São Paulo,Móveis,1,2342.98,concluído
+PED-11119,2026-09-09,Cliente_203,Rio de Janeiro,Vestuário,5,341.96,concluído
+PED-11120,2026-02-07,Cliente_201,Rio de Janeiro,Móveis,3,1559.89,concluído
+PED-11121,2026-04-05,Cliente_134,São Paulo,Móveis,2,1856.9,cancelado
+PED-11122,2026-08-01,Cliente_140,Porto Alegre,Vestuário,3,55.23,concluído
+PED-11123,2026-06-28,Cliente_57,Curitiba,Vestuário,2,228.7,concluído
+PED-11124,2026-06-19,Cliente_93,Curitiba,Vestuário,6,356.86,concluído
+PED-11125,2026-10-15,Cliente_211,São Paulo,Móveis,4,945.86,concluído
+PED-11126,2026-02-28,Cliente_172,São Paulo,Vestuário,1,308.29,concluído
+PED-11127,2026-11-25,Cliente_158,São Paulo,Esportes,4,158.02,cancelado
+PED-11128,2026-01-21,Cliente_175,Porto Alegre,Móveis,2,2320.94,cancelado
+PED-11129,2026-02-28,Cliente_99,Rio de Janeiro,Ferramentas,7,357.69,concluído
+PED-11130,2026-01-13,Cliente_234,Belo Horizonte,Móveis,3,864.5,concluído
+PED-11131,2026-09-21,Cliente_206,Rio de Janeiro,Vestuário,6,221.24,cancelado
+PED-11132,2026-01-23,Cliente_76,São Paulo,Móveis,4,1419.22,concluído
+PED-11133,2026-06-14,Cliente_132,Curitiba,Móveis,2,2276.22,concluído
+PED-11134,2026-03-27,Cliente_249,São Paulo,Ferramentas,2,60.47,concluído
+PED-11135,2026-11-17,Cliente_17,São Paulo,Esportes,1,383.82,concluído
+PED-11136,2026-08-06,Cliente_214,Curitiba,Móveis,2,763.72,concluído
+PED-11137,2026-02-06,Cliente_192,Campinas,Ferramentas,7,68.45,concluído
+PED-11138,2026-08-24,Cliente_184,São Paulo,Móveis,1,1809.3,cancelado
+PED-11139,2026-02-07,Cliente_14,Curitiba,Vestuário,2,152.73,concluído
+PED-11140,2026-10-13,Cliente_19,Belo Horizonte,Vestuário,5,95.86,concluído
+PED-11141,2026-05-13,Cliente_105,São Paulo,Esportes,4,242.74,concluído
+PED-11142,2026-08-10,Cliente_81,Rio de Janeiro,Eletrônicos,2,2817.77,concluído
+PED-11143,2026-10-01,Cliente_2,São Paulo,Esportes,2,36.25,concluído
+PED-11144,2026-10-27,Cliente_12,Porto Alegre,Ferramentas,2,267.33,concluído
+PED-11145,2026-07-03,Cliente_238,São Paulo,Móveis,1,1841.94,concluído
+PED-11146,2026-06-04,Cliente_156,São Paulo,Eletrônicos,2,3414.75,concluído
+PED-11147,2026-07-15,Cliente_102,São Paulo,Vestuário,8,62.01,concluído
+PED-11148,2026-08-31,Cliente_41,São Paulo,Eletrônicos,1,5075.04,cancelado
+PED-11149,2026-07-20,Cliente_204,Belo Horizonte,Eletrônicos,1,3574.03,concluído
+PED-11150,2026-11-21,Cliente_37,Rio de Janeiro,Eletrônicos,2,4946.92,concluído
+PED-11151,2026-01-06,Cliente_142,São Paulo,Ferramentas,6,140.28,concluído
+PED-11152,2026-03-05,Cliente_11,Curitiba,Esportes,3,353.66,concluído
+PED-11153,2026-10-03,Cliente_141,São Paulo,Eletrônicos,2,826.16,concluído
+PED-11154,2026-04-18,Cliente_192,Porto Alegre,Ferramentas,5,380.38,concluído
+PED-11155,2026-04-19,Cliente_106,Rio de Janeiro,Eletrônicos,2,4655.44,concluído
+PED-11156,2026-03-24,Cliente_48,São Paulo,Móveis,2,2292.38,cancelado
+PED-11157,2026-04-10,Cliente_30,São Paulo,Esportes,5,111.69,concluído
+PED-11158,2026-10-09,Cliente_119,São Paulo,Móveis,1,698.99,cancelado
+PED-11159,2026-05-29,Cliente_172,São Paulo,Vestuário,2,268.53,concluído
+PED-11160,2026-04-12,Cliente_186,Curitiba,Vestuário,2,54.92,concluído
+PED-11161,2026-07-02,Cliente_33,São Paulo,Eletrônicos,2,3819.1,concluído
+PED-11162,2026-02-21,Cliente_73,Belo Horizonte,Móveis,2,1776.85,concluído
+PED-11163,2026-06-12,Cliente_125,Rio de Janeiro,Vestuário,4,259.22,concluído
+PED-11164,2026-10-27,Cliente_40,Rio de Janeiro,Ferramentas,5,196.74,concluído
+PED-11165,2026-06-11,Cliente_246,São Paulo,Eletrônicos,2,3740.87,concluído
+PED-11166,2026-06-10,Cliente_64,Campinas,Móveis,1,1242.28,concluído
+PED-11167,2026-05-22,Cliente_216,São Paulo,Móveis,4,2028.45,cancelado
+PED-11168,2026-09-03,Cliente_119,São Paulo,Eletrônicos,2,2669.33,pendente
+PED-11169,2026-09-07,Cliente_142,Curitiba,Eletrônicos,2,3115.86,cancelado
+PED-11170,2026-05-24,Cliente_220,Belo Horizonte,Vestuário,2,70.27,concluído
+PED-11171,2026-05-15,Cliente_188,Belo Horizonte,Móveis,2,2118.18,concluído
+PED-11172,2026-02-08,Cliente_229,São Paulo,Esportes,2,357.94,concluído
+PED-11173,2026-10-25,Cliente_149,Curitiba,Ferramentas,1,36.89,concluído
+PED-11174,2026-01-19,Cliente_142,Porto Alegre,Vestuário,4,179.9,concluído
+PED-11175,2026-03-18,Cliente_94,São Paulo,Ferramentas,8,126.43,concluído
+PED-11176,2026-03-10,Cliente_119,Porto Alegre,Ferramentas,5,175.22,concluído
+PED-11177,2026-07-23,Cliente_94,São Paulo,Eletrônicos,1,3405.84,concluído
+PED-11178,2026-11-11,Cliente_176,Campinas,Móveis,2,1404.77,concluído
+PED-11179,2026-08-17,Cliente_41,Porto Alegre,Esportes,3,91.36,concluído
+PED-11180,2026-09-05,Cliente_241,Curitiba,Esportes,3,96.28,concluído
+PED-11181,2026-09-07,Cliente_60,Campinas,Móveis,2,1089.35,concluído
+PED-11182,2026-04-30,Cliente_11,Porto Alegre,Esportes,6,53.26,pendente
+PED-11183,2026-07-18,Cliente_121,Rio de Janeiro,Ferramentas,6,277.38,concluído
+PED-11184,2026-01-21,Cliente_167,São Paulo,Vestuário,1,369.62,concluído
+PED-11185,2026-05-15,Cliente_149,São Paulo,Esportes,5,149.91,concluído
+PED-11186,2026-07-12,Cliente_168,Belo Horizonte,Vestuário,3,231.41,cancelado
+PED-11187,2026-09-22,Cliente_65,São Paulo,Móveis,1,1132.74,cancelado
+PED-11188,2026-09-22,Cliente_104,Rio de Janeiro,Esportes,4,169.24,concluído
+PED-11189,2026-09-07,Cliente_203,São Paulo,Eletrônicos,2,2635.07,concluído
+PED-11190,2026-09-14,Cliente_226,São Paulo,Móveis,1,1360.64,cancelado
+PED-11191,2026-04-28,Cliente_20,Curitiba,Móveis,2,605.73,cancelado
+PED-11192,2026-04-19,Cliente_39,São Paulo,Vestuário,5,220.38,concluído
+PED-11193,2026-11-05,Cliente_184,Curitiba,Esportes,6,99.16,concluído
+PED-11194,2026-08-01,Cliente_208,Porto Alegre,Ferramentas,4,332.27,concluído
+PED-11195,2026-09-04,Cliente_173,São Paulo,Vestuário,2,152.18,concluído
+PED-11196,2026-10-30,Cliente_42,Curitiba,Móveis,2,1353.39,cancelado
+PED-11197,2026-01-12,Cliente_63,Belo Horizonte,Móveis,4,1723.97,concluído
+PED-11198,2026-03-10,Cliente_162,São Paulo,Vestuário,3,45.96,concluído
+PED-11199,2026-01-29,Cliente_43,São Paulo,Vestuário,3,219.68,concluído
+PED-11200,2026-09-22,Cliente_246,Rio de Janeiro,Móveis,2,868.17,concluído
+PED-11201,2026-05-26,Cliente_243,Campinas,Esportes,1,180.02,concluído
+PED-11202,2026-11-07,Cliente_121,Rio de Janeiro,Móveis,4,488.65,cancelado
+PED-11203,2026-04-23,Cliente_213,São Paulo,Móveis,2,2208.07,concluído
+PED-11204,2026-10-26,Cliente_211,Campinas,Eletrônicos,1,2935.99,concluído
+PED-11205,2026-03-27,Cliente_186,Belo Horizonte,Vestuário,5,313.97,cancelado
+PED-11206,2026-11-02,Cliente_152,Belo Horizonte,Eletrônicos,2,4365.07,concluído
+PED-11207,2026-07-17,Cliente_34,Porto Alegre,Ferramentas,7,55.47,concluído
+PED-11208,2026-09-25,Cliente_221,São Paulo,Esportes,4,70.17,concluído
+PED-11209,2026-03-18,Cliente_156,São Paulo,Ferramentas,7,366.46,concluído
+PED-11210,2026-11-11,Cliente_154,Curitiba,Esportes,8,65.63,concluído
+PED-11211,2026-02-17,Cliente_124,Curitiba,Eletrônicos,1,1002.99,concluído
+PED-11212,2026-08-09,Cliente_134,São Paulo,Ferramentas,1,273.98,concluído
+PED-11213,2026-09-29,Cliente_110,São Paulo,Ferramentas,1,185.65,concluído
+PED-11214,2026-07-15,Cliente_90,Porto Alegre,Eletrônicos,2,1993.33,cancelado
+PED-11215,2026-08-06,Cliente_35,Porto Alegre,Ferramentas,2,247.95,concluído
+PED-11216,2026-02-12,Cliente_73,Belo Horizonte,Móveis,2,859.94,cancelado
+PED-11217,2026-05-12,Cliente_49,São Paulo,Ferramentas,7,251.37,concluído
+PED-11218,2026-10-23,Cliente_134,São Paulo,Esportes,1,32.02,cancelado
+PED-11219,2026-07-12,Cliente_168,Campinas,Vestuário,1,73.6,concluído
+PED-11220,2026-07-29,Cliente_93,Porto Alegre,Ferramentas,6,106.0,concluído
+PED-11221,2026-10-27,Cliente_65,Rio de Janeiro,Ferramentas,7,69.44,concluído
+PED-11222,2026-10-17,Cliente_94,Campinas,Vestuário,7,126.68,concluído
+PED-11223,2026-04-15,Cliente_106,Curitiba,Vestuário,7,256.4,concluído
+PED-11224,2026-04-02,Cliente_95,São Paulo,Ferramentas,8,234.28,concluído
+PED-11225,2026-05-10,Cliente_79,São Paulo,Móveis,4,1530.01,cancelado
+PED-11226,2026-03-12,Cliente_219,São Paulo,Vestuário,7,243.73,concluído
+PED-11227,2026-04-28,Cliente_115,Campinas,Ferramentas,2,349.62,concluído
+PED-11228,2026-02-21,Cliente_55,Rio de Janeiro,Eletrônicos,1,4872.17,concluído
+PED-11229,2026-10-09,Cliente_158,Belo Horizonte,Vestuário,6,218.09,concluído
+PED-11230,2026-03-24,Cliente_100,Curitiba,Vestuário,1,287.91,concluído
+PED-11231,2026-02-16,Cliente_211,Rio de Janeiro,Vestuário,1,386.89,cancelado
+PED-11232,2026-02-15,Cliente_17,São Paulo,Ferramentas,7,83.77,concluído
+PED-11233,2026-02-10,Cliente_156,Rio de Janeiro,Ferramentas,6,127.34,pendente
+PED-11234,2026-07-25,Cliente_158,Belo Horizonte,Eletrônicos,2,996.33,concluído
+PED-11235,2026-11-02,Cliente_15,Campinas,Vestuário,5,272.78,cancelado
+PED-11236,2026-11-24,Cliente_127,Porto Alegre,Vestuário,3,379.91,concluído
+PED-11237,2026-09-23,Cliente_74,São Paulo,Vestuário,4,192.42,concluído
+PED-11238,2026-11-11,Cliente_44,Rio de Janeiro,Eletrônicos,1,1812.68,concluído
+PED-11239,2026-05-03,Cliente_168,Campinas,Móveis,3,1782.85,cancelado
+PED-11240,2026-02-14,Cliente_71,Curitiba,Esportes,3,30.11,concluído
+PED-11241,2026-07-22,Cliente_104,São Paulo,Móveis,3,2015.28,cancelado
+PED-11242,2026-02-05,Cliente_236,Porto Alegre,Móveis,1,1589.38,concluído
+PED-11243,2026-10-14,Cliente_235,Curitiba,Vestuário,5,63.36,concluído
+PED-11244,2026-05-22,Cliente_58,Porto Alegre,Esportes,6,245.68,pendente
+PED-11245,2026-08-21,Cliente_239,Rio de Janeiro,Móveis,2,1634.0,concluído
+PED-11246,2026-05-14,Cliente_45,São Paulo,Ferramentas,1,179.46,concluído
+PED-11247,2026-10-14,Cliente_19,Belo Horizonte,Móveis,1,1195.7,cancelado
+PED-11248,2026-03-01,Cliente_206,São Paulo,Vestuário,6,216.17,concluído
+PED-11249,2026-10-03,Cliente_209,São Paulo,Móveis,3,1429.23,concluído
+PED-11250,2026-08-15,Cliente_248,Belo Horizonte,Esportes,5,323.55,concluído
+PED-11251,2026-05-05,Cliente_194,Belo Horizonte,Vestuário,8,169.52,concluído
+PED-11252,2026-08-24,Cliente_230,Porto Alegre,Vestuário,8,155.67,concluído
+PED-11253,2026-09-04,Cliente_30,São Paulo,Eletrônicos,1,3851.5,pendente
+PED-11254,2026-11-21,Cliente_202,São Paulo,Móveis,4,867.2,cancelado
+PED-11255,2026-06-11,Cliente_106,Belo Horizonte,Eletrônicos,1,5969.83,concluído
+PED-11256,2026-05-15,Cliente_64,Porto Alegre,Esportes,1,383.51,concluído
+PED-11257,2026-06-25,Cliente_20,São Paulo,Esportes,7,136.3,concluído
+PED-11258,2026-09-01,Cliente_81,Porto Alegre,Ferramentas,3,235.18,concluído
+PED-11259,2026-04-04,Cliente_243,São Paulo,Móveis,3,1077.78,concluído
+PED-11260,2026-09-13,Cliente_189,São Paulo,Vestuário,4,306.08,concluído
+PED-11261,2026-05-16,Cliente_53,São Paulo,Móveis,2,739.27,concluído
+PED-11262,2026-11-13,Cliente_92,São Paulo,Esportes,4,114.81,pendente
+PED-11263,2026-03-03,Cliente_236,Curitiba,Esportes,2,87.72,concluído
+PED-11264,2026-11-11,Cliente_2,Curitiba,Ferramentas,8,59.04,concluído
+PED-11265,2026-09-04,Cliente_96,São Paulo,Esportes,1,312.77,concluído
+PED-11266,2026-10-22,Cliente_223,Belo Horizonte,Esportes,8,259.65,concluído
+PED-11267,2026-09-19,Cliente_72,Porto Alegre,Móveis,2,904.41,concluído
+PED-11268,2026-01-28,Cliente_135,Porto Alegre,Móveis,2,1175.33,cancelado
+PED-11269,2026-10-04,Cliente_9,Curitiba,Ferramentas,8,325.73,concluído
+PED-11270,2026-03-31,Cliente_118,Curitiba,Vestuário,7,215.92,concluído
+PED-11271,2026-06-11,Cliente_177,São Paulo,Eletrônicos,2,5877.84,concluído
+PED-11272,2026-07-14,Cliente_149,Campinas,Móveis,2,318.52,cancelado
+PED-11273,2026-11-10,Cliente_221,São Paulo,Móveis,3,521.65,concluído
+PED-11274,2026-05-02,Cliente_69,Curitiba,Móveis,3,871.34,cancelado
+PED-11275,2026-07-07,Cliente_48,Curitiba,Móveis,3,1336.96,concluído
+PED-11276,2026-08-03,Cliente_180,Rio de Janeiro,Ferramentas,4,214.54,pendente
+PED-11277,2026-07-25,Cliente_72,Porto Alegre,Esportes,6,308.31,concluído
+PED-11278,2026-10-22,Cliente_176,Rio de Janeiro,Ferramentas,3,196.77,concluído
+PED-11279,2026-05-19,Cliente_206,Rio de Janeiro,Esportes,2,114.57,concluído
+PED-11280,2026-07-15,Cliente_51,Belo Horizonte,Eletrônicos,2,2026.19,cancelado
+PED-11281,2026-08-31,Cliente_207,São Paulo,Esportes,3,83.96,concluído
+PED-11282,2026-09-13,Cliente_35,Rio de Janeiro,Ferramentas,7,33.6,concluído
+PED-11283,2026-09-07,Cliente_77,Porto Alegre,Vestuário,6,398.36,concluído
+PED-11284,2026-07-23,Cliente_26,Rio de Janeiro,Esportes,1,122.86,pendente
+PED-11285,2026-04-21,Cliente_209,Campinas,Ferramentas,1,285.5,concluído
+PED-11286,2026-08-19,Cliente_191,São Paulo,Esportes,2,124.09,concluído
+PED-11287,2026-07-04,Cliente_144,Porto Alegre,Vestuário,6,153.82,concluído
+PED-11288,2026-06-26,Cliente_6,Porto Alegre,Ferramentas,5,236.27,concluído
+PED-11289,2026-11-07,Cliente_51,Rio de Janeiro,Eletrônicos,2,2941.16,concluído
+PED-11290,2026-05-26,Cliente_91,São Paulo,Móveis,2,1569.08,concluído
+PED-11291,2026-08-17,Cliente_228,São Paulo,Eletrônicos,2,2490.47,concluído
+PED-11292,2026-08-26,Cliente_162,Rio de Janeiro,Ferramentas,5,59.01,concluído
+PED-11293,2026-11-24,Cliente_207,Belo Horizonte,Eletrônicos,1,5774.29,concluído
+PED-11294,2026-11-20,Cliente_157,Rio de Janeiro,Esportes,7,373.57,concluído
+PED-11295,2026-02-10,Cliente_42,São Paulo,Ferramentas,2,241.51,concluído
+PED-11296,2026-06-12,Cliente_168,Belo Horizonte,Eletrônicos,2,2586.85,concluído
+PED-11297,2026-11-06,Cliente_166,Curitiba,Esportes,5,137.8,concluído
+PED-11298,2026-07-05,Cliente_192,São Paulo,Eletrônicos,2,2856.37,concluído
+PED-11299,2026-07-31,Cliente_43,São Paulo,Vestuário,8,247.16,concluído
+PED-11300,2026-03-06,Cliente_187,São Paulo,Vestuário,1,98.04,concluído
+PED-11301,2026-02-10,Cliente_54,Campinas,Ferramentas,5,116.81,concluído
+PED-11302,2026-02-18,Cliente_17,Curitiba,Móveis,1,667.2,cancelado
+PED-11303,2026-10-08,Cliente_14,Rio de Janeiro,Ferramentas,8,376.61,concluído
+PED-11304,2026-09-26,Cliente_196,São Paulo,Móveis,4,358.0,concluído
+PED-11305,2026-05-15,Cliente_159,São Paulo,Ferramentas,2,398.53,concluído
+PED-11306,2026-06-08,Cliente_59,Belo Horizonte,Vestuário,7,87.45,concluído
+PED-11307,2026-08-15,Cliente_161,Campinas,Móveis,3,844.27,cancelado
+PED-11308,2026-01-15,Cliente_9,São Paulo,Esportes,3,76.77,concluído
+PED-11309,2026-09-01,Cliente_120,Porto Alegre,Eletrônicos,2,4250.46,concluído
+PED-11310,2026-10-08,Cliente_114,São Paulo,Vestuário,5,390.74,concluído
+PED-11311,2026-10-30,Cliente_153,São Paulo,Esportes,3,79.99,concluído
+PED-11312,2026-09-26,Cliente_164,São Paulo,Eletrônicos,2,3174.03,concluído
+PED-11313,2026-06-27,Cliente_124,Campinas,Esportes,5,266.63,concluído
+PED-11314,2026-08-15,Cliente_79,Porto Alegre,Vestuário,2,229.68,concluído
+PED-11315,2026-03-21,Cliente_78,São Paulo,Eletrônicos,2,2702.07,concluído
+PED-11316,2026-06-26,Cliente_74,Rio de Janeiro,Ferramentas,3,33.91,concluído
+PED-11317,2026-09-09,Cliente_243,Campinas,Móveis,1,1332.24,concluído
+PED-11318,2026-01-05,Cliente_197,Curitiba,Vestuário,5,309.52,concluído
+PED-11319,2026-11-02,Cliente_60,Curitiba,Vestuário,5,189.26,concluído
+PED-11320,2026-04-07,Cliente_106,São Paulo,Ferramentas,6,324.8,pendente
+PED-11321,2026-07-22,Cliente_64,Belo Horizonte,Vestuário,7,356.4,concluído
+PED-11322,2026-07-13,Cliente_57,Rio de Janeiro,Vestuário,7,90.41,concluído
+PED-11323,2026-11-17,Cliente_62,São Paulo,Ferramentas,7,127.3,concluído
+PED-11324,2026-05-26,Cliente_167,Curitiba,Móveis,3,1436.54,cancelado
+PED-11325,2026-07-31,Cliente_49,São Paulo,Ferramentas,5,304.88,concluído
+PED-11326,2026-03-11,Cliente_75,Curitiba,Eletrônicos,1,5238.11,concluído
+PED-11327,2026-11-13,Cliente_116,São Paulo,Vestuário,8,70.83,concluído
+PED-11328,2026-04-07,Cliente_83,São Paulo,Vestuário,8,130.69,concluído
+PED-11329,2026-10-01,Cliente_6,São Paulo,Eletrônicos,1,900.86,cancelado
+PED-11330,2026-05-25,Cliente_69,São Paulo,Móveis,1,709.06,cancelado
+PED-11331,2026-01-05,Cliente_60,São Paulo,Eletrônicos,2,1450.2,concluído
+PED-11332,2026-09-10,Cliente_56,Curitiba,Ferramentas,1,63.37,concluído
+PED-11333,2026-09-13,Cliente_96,Rio de Janeiro,Móveis,3,1052.21,concluído
+PED-11334,2026-06-19,Cliente_21,São Paulo,Eletrônicos,1,3211.16,concluído
+PED-11335,2026-01-29,Cliente_69,Curitiba,Móveis,2,2155.8,concluído
+PED-11336,2026-10-06,Cliente_121,São Paulo,Vestuário,2,316.99,concluído
+PED-11337,2026-07-15,Cliente_213,São Paulo,Vestuário,5,97.19,concluído
+PED-11338,2026-07-17,Cliente_198,Belo Horizonte,Móveis,2,327.75,cancelado
+PED-11339,2026-01-18,Cliente_51,Porto Alegre,Móveis,2,2444.94,cancelado
+PED-11340,2026-09-24,Cliente_171,Campinas,Eletrônicos,1,3196.34,concluído
+PED-11341,2026-07-19,Cliente_175,Curitiba,Vestuário,8,393.38,concluído
+PED-11342,2026-03-23,Cliente_162,São Paulo,Eletrônicos,2,5798.31,concluído
+PED-11343,2026-05-10,Cliente_124,São Paulo,Ferramentas,2,299.45,concluído
+PED-11344,2026-07-04,Cliente_228,São Paulo,Móveis,2,1704.74,concluído
+PED-11345,2026-02-27,Cliente_61,Rio de Janeiro,Eletrônicos,1,1070.86,concluído
+PED-11346,2026-01-08,Cliente_43,São Paulo,Ferramentas,6,264.18,concluído
+PED-11347,2026-07-22,Cliente_203,São Paulo,Esportes,2,323.92,concluído
+PED-11348,2026-10-25,Cliente_201,Belo Horizonte,Móveis,1,834.8,concluído
+PED-11349,2026-07-10,Cliente_198,Porto Alegre,Vestuário,3,285.58,concluído
+PED-11350,2026-09-13,Cliente_24,Rio de Janeiro,Esportes,3,63.11,concluído
+PED-11351,2026-11-17,Cliente_16,Porto Alegre,Ferramentas,6,283.8,concluído
+PED-11352,2026-10-02,Cliente_203,São Paulo,Ferramentas,3,52.12,concluído
+PED-11353,2026-04-30,Cliente_82,São Paulo,Ferramentas,8,69.73,concluído
+PED-11354,2026-08-13,Cliente_188,São Paulo,Vestuário,6,393.22,concluído
+PED-11355,2026-07-03,Cliente_186,Curitiba,Esportes,7,101.4,concluído
+PED-11356,2026-09-06,Cliente_181,Porto Alegre,Esportes,1,79.85,concluído
+PED-11357,2026-10-05,Cliente_179,São Paulo,Vestuário,5,191.88,concluído
+PED-11358,2026-10-06,Cliente_90,Rio de Janeiro,Ferramentas,3,211.33,concluído
+PED-11359,2026-05-21,Cliente_223,Campinas,Eletrônicos,2,2483.14,concluído
+PED-11360,2026-02-05,Cliente_136,Curitiba,Móveis,2,2128.97,concluído
+PED-11361,2026-05-15,Cliente_139,São Paulo,Esportes,5,87.36,concluído
+PED-11362,2026-11-23,Cliente_130,São Paulo,Ferramentas,1,165.83,concluído
+PED-11363,2026-01-10,Cliente_159,São Paulo,Móveis,2,1133.9,concluído
+PED-11364,2026-06-14,Cliente_185,Porto Alegre,Eletrônicos,1,5255.51,concluído
+PED-11365,2026-04-08,Cliente_135,Porto Alegre,Eletrônicos,2,1129.38,concluído
+PED-11366,2026-11-10,Cliente_73,São Paulo,Eletrônicos,1,4352.77,concluído
+PED-11367,2026-02-26,Cliente_25,São Paulo,Ferramentas,6,149.36,concluído
+PED-11368,2026-01-23,Cliente_214,São Paulo,Ferramentas,2,223.58,concluído
+PED-11369,2026-01-17,Cliente_52,Curitiba,Ferramentas,3,376.99,concluído
+PED-11370,2026-02-20,Cliente_9,São Paulo,Vestuário,4,69.61,concluído
+PED-11371,2026-09-08,Cliente_135,Belo Horizonte,Móveis,4,1556.23,cancelado
+PED-11372,2026-01-26,Cliente_94,Rio de Janeiro,Móveis,3,1672.74,cancelado
+PED-11373,2026-01-07,Cliente_239,São Paulo,Vestuário,2,111.67,concluído
+PED-11374,2026-02-10,Cliente_120,Campinas,Eletrônicos,2,5589.38,cancelado
+PED-11375,2026-07-04,Cliente_143,Porto Alegre,Esportes,1,326.38,concluído
+PED-11376,2026-07-08,Cliente_204,Belo Horizonte,Vestuário,7,305.09,concluído
+PED-11377,2026-09-28,Cliente_11,Belo Horizonte,Vestuário,5,292.12,concluído
+PED-11378,2026-02-09,Cliente_242,Rio de Janeiro,Móveis,3,1915.46,cancelado
+PED-11379,2026-02-21,Cliente_186,Porto Alegre,Ferramentas,2,109.88,concluído
+PED-11380,2026-04-08,Cliente_50,Porto Alegre,Móveis,4,808.24,concluído
+PED-11381,2026-10-19,Cliente_161,São Paulo,Ferramentas,4,224.69,concluído
+PED-11382,2026-02-24,Cliente_197,Rio de Janeiro,Ferramentas,7,380.58,concluído
+PED-11383,2026-08-23,Cliente_180,São Paulo,Esportes,6,266.29,concluído
+PED-11384,2026-03-27,Cliente_203,São Paulo,Esportes,2,276.14,concluído
+PED-11385,2026-09-16,Cliente_87,São Paulo,Ferramentas,7,96.75,concluído
+PED-11386,2026-06-30,Cliente_232,São Paulo,Vestuário,8,273.29,concluído
+PED-11387,2026-07-10,Cliente_106,São Paulo,Móveis,3,993.34,cancelado
+PED-11388,2026-06-15,Cliente_156,Campinas,Vestuário,7,312.75,concluído
+PED-11389,2026-07-12,Cliente_197,São Paulo,Vestuário,4,119.07,concluído
+PED-11390,2026-07-04,Cliente_247,São Paulo,Móveis,3,1510.53,cancelado
+PED-11391,2026-01-01,Cliente_186,São Paulo,Esportes,7,197.39,concluído
+PED-11392,2026-11-02,Cliente_5,Porto Alegre,Ferramentas,5,42.83,concluído
+PED-11393,2026-01-04,Cliente_77,Campinas,Ferramentas,5,221.52,concluído
+PED-11394,2026-06-11,Cliente_6,São Paulo,Móveis,2,2465.67,cancelado
+PED-11395,2026-10-11,Cliente_131,Rio de Janeiro,Eletrônicos,2,4811.92,concluído
+PED-11396,2026-02-18,Cliente_10,Rio de Janeiro,Vestuário,3,235.84,concluído
+PED-11397,2026-03-12,Cliente_68,Porto Alegre,Vestuário,3,200.34,pendente
+PED-11398,2026-04-30,Cliente_66,Campinas,Esportes,4,165.82,concluído
+PED-11399,2026-10-20,Cliente_103,São Paulo,Vestuário,2,330.1,cancelado
+PED-11400,2026-02-09,Cliente_186,São Paulo,Vestuário,4,240.55,concluído
+PED-11401,2026-03-30,Cliente_125,Curitiba,Eletrônicos,2,2488.4,concluído
+PED-11402,2026-11-01,Cliente_165,Belo Horizonte,Eletrônicos,1,5093.67,concluído
+PED-11403,2026-02-10,Cliente_200,São Paulo,Eletrônicos,2,2362.04,concluído
+PED-11404,2026-06-28,Cliente_226,Belo Horizonte,Ferramentas,6,50.69,concluído
+PED-11405,2026-03-03,Cliente_223,Rio de Janeiro,Eletrônicos,2,5049.14,concluído
+PED-11406,2026-11-21,Cliente_200,São Paulo,Eletrônicos,1,4806.03,concluído
+PED-11407,2026-06-06,Cliente_135,Curitiba,Móveis,1,1690.83,concluído
+PED-11408,2026-06-17,Cliente_129,Porto Alegre,Eletrônicos,1,1014.15,concluído
+PED-11409,2026-01-26,Cliente_173,Belo Horizonte,Móveis,2,1835.09,concluído
+PED-11410,2026-08-17,Cliente_193,São Paulo,Ferramentas,7,300.68,concluído
+PED-11411,2026-04-24,Cliente_111,Campinas,Eletrônicos,1,3894.69,concluído
+PED-11412,2026-03-17,Cliente_34,Porto Alegre,Esportes,7,137.22,concluído
+PED-11413,2026-10-20,Cliente_191,Campinas,Vestuário,8,154.38,concluído
+PED-11414,2026-05-15,Cliente_22,Rio de Janeiro,Móveis,4,408.48,cancelado
+PED-11415,2026-03-08,Cliente_196,Curitiba,Eletrônicos,2,2872.34,concluído
+PED-11416,2026-09-07,Cliente_102,São Paulo,Móveis,2,596.72,cancelado
+PED-11417,2026-10-15,Cliente_158,São Paulo,Móveis,2,1734.95,concluído
+PED-11418,2026-05-05,Cliente_19,Rio de Janeiro,Esportes,4,398.92,concluído
+PED-11419,2026-06-15,Cliente_176,Porto Alegre,Eletrônicos,2,2184.54,concluído
+PED-11420,2026-02-27,Cliente_172,São Paulo,Esportes,2,371.93,concluído
+PED-11421,2026-06-28,Cliente_49,Campinas,Esportes,6,183.03,concluído
+PED-11422,2026-06-06,Cliente_44,São Paulo,Esportes,1,148.67,concluído
+PED-11423,2026-11-16,Cliente_38,São Paulo,Móveis,4,2472.83,cancelado
+PED-11424,2026-04-13,Cliente_176,Porto Alegre,Ferramentas,4,192.97,concluído
+PED-11425,2026-02-27,Cliente_190,São Paulo,Esportes,2,168.31,concluído
+PED-11426,2026-05-28,Cliente_4,Rio de Janeiro,Ferramentas,3,50.18,concluído
+PED-11427,2026-06-06,Cliente_116,Porto Alegre,Vestuário,2,157.01,cancelado
+PED-11428,2026-04-18,Cliente_190,Rio de Janeiro,Eletrônicos,2,3250.19,concluído
+PED-11429,2026-10-07,Cliente_134,São Paulo,Móveis,2,1483.61,concluído
+PED-11430,2026-11-15,Cliente_187,São Paulo,Ferramentas,8,307.63,concluído
+PED-11431,2026-07-12,Cliente_150,Porto Alegre,Vestuário,1,397.15,concluído
+PED-11432,2026-05-11,Cliente_44,São Paulo,Esportes,1,365.23,concluído
+PED-11433,2026-11-13,Cliente_70,São Paulo,Vestuário,4,52.24,concluído
+PED-11434,2026-02-04,Cliente_100,São Paulo,Eletrônicos,1,1076.04,concluído
+PED-11435,2026-02-25,Cliente_5,Rio de Janeiro,Móveis,3,1752.82,concluído
+PED-11436,2026-04-29,Cliente_98,São Paulo,Vestuário,7,138.22,concluído
+PED-11437,2026-06-11,Cliente_125,Belo Horizonte,Ferramentas,2,218.16,pendente
+PED-11438,2026-04-06,Cliente_51,São Paulo,Eletrônicos,1,5307.22,concluído
+PED-11439,2026-10-15,Cliente_238,Campinas,Vestuário,8,215.24,concluído
+PED-11440,2026-05-07,Cliente_237,São Paulo,Vestuário,1,293.61,concluído
+PED-11441,2026-09-08,Cliente_101,Porto Alegre,Vestuário,6,225.88,pendente
+PED-11442,2026-06-27,Cliente_176,Curitiba,Vestuário,1,305.42,concluído
+PED-11443,2026-05-01,Cliente_129,São Paulo,Esportes,5,160.21,concluído
+PED-11444,2026-11-17,Cliente_66,Rio de Janeiro,Ferramentas,1,132.07,concluído
+PED-11445,2026-10-12,Cliente_243,São Paulo,Vestuário,1,355.11,concluído
+PED-11446,2026-06-24,Cliente_230,Curitiba,Móveis,2,916.43,concluído
+PED-11447,2026-02-14,Cliente_187,São Paulo,Eletrônicos,1,2842.8,cancelado
+PED-11448,2026-08-02,Cliente_62,Campinas,Eletrônicos,1,2787.48,concluído
+PED-11449,2026-06-09,Cliente_233,Curitiba,Móveis,4,1560.38,cancelado
+PED-11450,2026-10-05,Cliente_34,Rio de Janeiro,Vestuário,8,253.99,concluído
+PED-11451,2026-10-25,Cliente_139,Campinas,Vestuário,3,106.5,pendente
+PED-11452,2026-03-12,Cliente_80,São Paulo,Vestuário,4,283.1,concluído
+PED-11453,2026-08-09,Cliente_233,Rio de Janeiro,Móveis,2,1814.77,cancelado
+PED-11454,2026-10-17,Cliente_235,São Paulo,Esportes,3,391.04,concluído
+PED-11455,2026-10-13,Cliente_137,Curitiba,Ferramentas,2,88.48,concluído
+PED-11456,2026-04-05,Cliente_82,Campinas,Eletrônicos,1,5732.73,concluído
+PED-11457,2026-01-16,Cliente_196,Curitiba,Móveis,2,2146.95,concluído
+PED-11458,2026-07-30,Cliente_78,Belo Horizonte,Ferramentas,7,147.91,concluído
+PED-11459,2026-03-19,Cliente_200,Porto Alegre,Vestuário,5,193.91,concluído
+PED-11460,2026-04-05,Cliente_7,Campinas,Móveis,2,713.45,cancelado
+PED-11461,2026-11-07,Cliente_146,São Paulo,Eletrônicos,2,4764.73,concluído
+PED-11462,2026-04-29,Cliente_176,São Paulo,Eletrônicos,1,3984.28,concluído
+PED-11463,2026-09-02,Cliente_35,São Paulo,Esportes,2,39.65,concluído
+PED-11464,2026-07-11,Cliente_48,Belo Horizonte,Esportes,8,215.86,concluído
+PED-11465,2026-08-31,Cliente_36,São Paulo,Eletrônicos,2,5231.07,pendente
+PED-11466,2026-01-17,Cliente_105,São Paulo,Esportes,4,90.6,concluído
+PED-11467,2026-05-19,Cliente_244,São Paulo,Ferramentas,1,312.88,concluído
+PED-11468,2026-04-15,Cliente_17,São Paulo,Móveis,2,1208.7,concluído
+PED-11469,2026-11-12,Cliente_126,Porto Alegre,Móveis,4,689.57,concluído
+PED-11470,2026-05-07,Cliente_110,São Paulo,Esportes,8,284.51,pendente
+PED-11471,2026-11-08,Cliente_189,Curitiba,Ferramentas,1,179.8,cancelado
+PED-11472,2026-07-21,Cliente_157,Curitiba,Eletrônicos,2,5086.51,concluído
+PED-11473,2026-09-24,Cliente_28,Belo Horizonte,Vestuário,1,377.48,concluído
+PED-11474,2026-05-06,Cliente_133,Curitiba,Vestuário,1,197.1,cancelado
+PED-11475,2026-10-13,Cliente_100,São Paulo,Vestuário,1,229.01,concluído
+PED-11476,2026-04-08,Cliente_75,São Paulo,Esportes,1,220.97,concluído
+PED-11477,2026-05-27,Cliente_119,Belo Horizonte,Ferramentas,5,192.63,concluído
+PED-11478,2026-11-10,Cliente_236,São Paulo,Esportes,5,91.6,cancelado
+PED-11479,2026-08-26,Cliente_213,Rio de Janeiro,Esportes,3,50.18,concluído
+PED-11480,2026-09-14,Cliente_29,São Paulo,Esportes,2,269.06,concluído
+PED-11481,2026-07-21,Cliente_106,São Paulo,Vestuário,3,96.52,concluído
+PED-11482,2026-04-02,Cliente_117,Curitiba,Eletrônicos,1,2482.0,concluído
+PED-11483,2026-08-21,Cliente_24,São Paulo,Ferramentas,4,248.42,pendente
+PED-11484,2026-03-05,Cliente_24,Rio de Janeiro,Eletrônicos,1,2100.43,concluído
+PED-11485,2026-11-21,Cliente_93,Porto Alegre,Móveis,4,551.16,cancelado
+PED-11486,2026-09-19,Cliente_157,São Paulo,Eletrônicos,2,1243.59,concluído
+PED-11487,2026-10-09,Cliente_98,Rio de Janeiro,Esportes,7,381.41,concluído
+PED-11488,2026-06-21,Cliente_145,São Paulo,Vestuário,3,46.25,concluído
+PED-11489,2026-03-25,Cliente_223,Porto Alegre,Vestuário,3,352.38,concluído
+PED-11490,2026-08-03,Cliente_79,Rio de Janeiro,Móveis,1,618.14,concluído
+PED-11491,2026-05-28,Cliente_161,São Paulo,Móveis,4,980.94,cancelado
+PED-11492,2026-04-14,Cliente_1,Belo Horizonte,Ferramentas,3,96.86,concluído
+PED-11493,2026-01-07,Cliente_118,São Paulo,Esportes,5,260.35,concluído
+PED-11494,2026-10-06,Cliente_207,Rio de Janeiro,Esportes,8,214.12,concluído
+PED-11495,2026-05-02,Cliente_56,São Paulo,Esportes,8,32.13,concluído
+PED-11496,2026-08-21,Cliente_105,Campinas,Vestuário,8,247.88,concluído
+PED-11497,2026-05-06,Cliente_226,São Paulo,Esportes,1,193.49,concluído
+PED-11498,2026-01-26,Cliente_48,São Paulo,Ferramentas,4,232.52,concluído
+PED-11499,2026-01-19,Cliente_38,São Paulo,Esportes,6,84.85,concluído
